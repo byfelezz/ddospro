@@ -1,0 +1,3906 @@
+Wed Nov  1 14:11:53 2023
+URL için iþlem baþlýyor: http://testphp.vulnweb.com
+Wed Nov  1 14:11:53 2023
+Thread 11: Hata - Failure when receiving data from the peer
+Wed Nov  1 14:11:53 2023
+Thread 7: Hata - Failure when receiving data from the peer
+Wed Nov  1 14:11:53 2023
+Thread 10: Hata - Failure when receiving data from the peer
+Wed Nov  1 14:11:53 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:11:54 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:11:54 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:11:55 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:11:55 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:11:55 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:11:56 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:11:56 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:11:56 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:11:56 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:11:56 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:11:57 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:11:57 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:11:57 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:11:57 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:11:57 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:11:57 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:11:58 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:11:58 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:11:58 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:11:58 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:11:58 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:11:58 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:11:59 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:11:59 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:11:59 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:11:59 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:11:59 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:11:59 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:00 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:12:00 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:00 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:12:00 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:00 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:12:00 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:01 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:01 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:12:01 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:01 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:12:01 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:02 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:12:02 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:02 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:12:02 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:02 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:02 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:12:03 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:03 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:12:03 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:03 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:12:03 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:03 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:12:03 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:04 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:12:04 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:04 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:04 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:12:04 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:05 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:12:05 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 14:12:05 2023
+Thread 6: Yanýt alýndý
+Wed Nov  1 14:12:05 2023
+Thread 8: Yanýt alýndý
+Wed Nov  1 18:20:09 2023
+Proxies loaded from http_proxies.txt: 745
+Wed Nov  1 18:20:09 2023
+Proxies loaded from socks4_proxies.txt: 1333
+Wed Nov  1 18:20:09 2023
+Proxies loaded from socks5_proxies.txt: 1713
+Wed Nov  1 18:20:26 2023
+Starting request process for URL: http://testphp.vulnweb.com
+Wed Nov  1 18:20:26 2023
+Launching 12 threads for URL: http://testphp.vulnweb.com
+Wed Nov  1 18:20:26 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:26 2023
+Thread 5 starting with proxy: 1.14.133.203:8080 and user agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+ like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0
+
+Wed Nov  1 18:20:26 2023
+Thread 1 starting with proxy: 72.37.217.3:4145 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60
+Wed Nov  1 18:20:26 2023
+Thread 6 starting with proxy: 124.70.221.252:3000 and user agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Wed Nov  1 18:20:26 2023
+Thread 7 starting with proxy: 51.81.186.179:26620 and user agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Wed Nov  1 18:20:26 2023
+Thread 8 starting with proxy: 181.225.107.227:999 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76
+Wed Nov  1 18:20:26 2023
+Thread 9 starting with proxy: 157.245.6.140:39314 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+Wed Nov  1 18:20:26 2023
+Thread 10 starting with proxy: 187.1.57.206:20183 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+Wed Nov  1 18:20:26 2023
+Thread 11 starting with proxy: 117.74.125.61:1133 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+Wed Nov  1 18:20:26 2023
+Thread 12 starting with proxy: 196.251.128.121:8080 and user agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+Wed Nov  1 18:20:26 2023
+Thread 1: Error - Failure when receiving data from the peer
+Wed Nov  1 18:20:26 2023
+Thread 4: Error - Server returned nothing (no headers, no data)
+Wed Nov  1 18:20:27 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:27 2023
+Thread 5: Response received
+Wed Nov  1 18:20:28 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:28 2023
+Thread 5: Response received
+Wed Nov  1 18:20:28 2023
+Thread 6: Response received
+Wed Nov  1 18:20:29 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:29 2023
+Thread 6: Response received
+Wed Nov  1 18:20:29 2023
+Thread 8: Error - Couldn't connect to server
+Wed Nov  1 18:20:29 2023
+Thread 6: Response received
+Wed Nov  1 18:20:29 2023
+Thread 6: Response received
+Wed Nov  1 18:20:29 2023
+Thread 11: Error - Couldn't connect to server
+Wed Nov  1 18:20:30 2023
+Thread 6: Response received
+Wed Nov  1 18:20:30 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:30 2023
+Thread 6: Response received
+Wed Nov  1 18:20:30 2023
+Thread 6: Response received
+Wed Nov  1 18:20:30 2023
+Thread 6: Response received
+Wed Nov  1 18:20:31 2023
+Thread 10: Response received
+Wed Nov  1 18:20:31 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:31 2023
+Thread 6: Response received
+Wed Nov  1 18:20:31 2023
+Thread 6: Response received
+Wed Nov  1 18:20:31 2023
+Thread 6: Response received
+Wed Nov  1 18:20:31 2023
+Thread 6: Response received
+Wed Nov  1 18:20:32 2023
+Thread 10: Response received
+Wed Nov  1 18:20:32 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:32 2023
+Thread 6: Response received
+Wed Nov  1 18:20:32 2023
+Thread 6: Response received
+Wed Nov  1 18:20:32 2023
+Thread 6: Response received
+Wed Nov  1 18:20:33 2023
+Thread 6: Response received
+Wed Nov  1 18:20:33 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:33 2023
+Thread 6: Response received
+Wed Nov  1 18:20:33 2023
+Thread 6: Response received
+Wed Nov  1 18:20:33 2023
+Thread 6: Response received
+Wed Nov  1 18:20:34 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:34 2023
+Thread 6: Response received
+Wed Nov  1 18:20:34 2023
+Thread 6: Response received
+Wed Nov  1 18:20:34 2023
+Thread 6: Response received
+Wed Nov  1 18:20:34 2023
+Thread 6: Response received
+Wed Nov  1 18:20:35 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:35 2023
+Thread 6: Response received
+Wed Nov  1 18:20:35 2023
+Thread 6: Response received
+Wed Nov  1 18:20:35 2023
+Thread 6: Response received
+Wed Nov  1 18:20:36 2023
+Thread 6: Response received
+Wed Nov  1 18:20:36 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:36 2023
+Thread 6: Response received
+Wed Nov  1 18:20:36 2023
+Thread 6: Response received
+Wed Nov  1 18:20:36 2023
+Thread 6: Response received
+Wed Nov  1 18:20:37 2023
+Thread 6: Response received
+Wed Nov  1 18:20:37 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:37 2023
+Thread 6: Response received
+Wed Nov  1 18:20:37 2023
+Thread 6: Response received
+Wed Nov  1 18:20:37 2023
+Thread 6: Response received
+Wed Nov  1 18:20:38 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:38 2023
+Thread 6: Response received
+Wed Nov  1 18:20:38 2023
+Thread 6: Response received
+Wed Nov  1 18:20:38 2023
+Thread 6: Response received
+Wed Nov  1 18:20:39 2023
+Thread 6: Response received
+Wed Nov  1 18:20:39 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:39 2023
+Thread 6: Response received
+Wed Nov  1 18:20:39 2023
+Thread 6: Response received
+Wed Nov  1 18:20:40 2023
+Current RAM Usage: 80.000000%
+Wed Nov  1 18:20:40 2023
+Thread 6: Response received
+Wed Nov  1 18:20:40 2023
+Thread 6: Response received
+Wed Nov  1 18:20:40 2023
+Thread 6: Response received
+Wed Nov  1 18:20:41 2023
+Thread 6: Response received
+Wed Nov  1 18:20:41 2023
+Current RAM Usage: 80.000000%
+Wed Nov  1 18:20:41 2023
+Thread 6: Response received
+Wed Nov  1 18:20:41 2023
+Thread 6: Response received
+Wed Nov  1 18:20:41 2023
+Thread 10: Response received
+Wed Nov  1 18:20:41 2023
+Thread 6: Response received
+Wed Nov  1 18:20:42 2023
+Thread 6: Response received
+Wed Nov  1 18:20:42 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:42 2023
+Thread 6: Response received
+Wed Nov  1 18:20:42 2023
+Thread 6: Response received
+Wed Nov  1 18:20:43 2023
+Current RAM Usage: 80.000000%
+Wed Nov  1 18:20:43 2023
+Thread 6: Response received
+Wed Nov  1 18:20:43 2023
+Thread 6: Response received
+Wed Nov  1 18:20:43 2023
+Thread 6: Response received
+Wed Nov  1 18:20:44 2023
+Thread 6: Response received
+Wed Nov  1 18:20:44 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:44 2023
+Thread 5: Response received
+Wed Nov  1 18:20:44 2023
+Thread 6: Response received
+Wed Nov  1 18:20:44 2023
+Thread 6: Response received
+Wed Nov  1 18:20:44 2023
+Thread 5: Response received
+Wed Nov  1 18:20:44 2023
+Thread 6: Response received
+Wed Nov  1 18:20:44 2023
+Thread 10: Response received
+Wed Nov  1 18:20:45 2023
+Thread 6: Response received
+Wed Nov  1 18:20:45 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:45 2023
+Thread 6: Response received
+Wed Nov  1 18:20:45 2023
+Thread 6: Response received
+Wed Nov  1 18:20:45 2023
+Thread 6: Response received
+Wed Nov  1 18:20:46 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:46 2023
+Thread 6: Response received
+Wed Nov  1 18:20:46 2023
+Thread 5: Response received
+Wed Nov  1 18:20:46 2023
+Thread 6: Response received
+Wed Nov  1 18:20:46 2023
+Thread 6: Response received
+Wed Nov  1 18:20:47 2023
+Thread 6: Response received
+Wed Nov  1 18:20:47 2023
+Thread 3: Error - Timeout was reached
+Wed Nov  1 18:20:47 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:47 2023
+Thread 7: Error - Timeout was reached
+Wed Nov  1 18:20:47 2023
+Thread 9: Error - Timeout was reached
+Wed Nov  1 18:20:47 2023
+Thread 12: Error - Timeout was reached
+Wed Nov  1 18:20:47 2023
+Thread 6: Response received
+Wed Nov  1 18:20:47 2023
+Thread 6: Response received
+Wed Nov  1 18:20:47 2023
+Thread 5: Response received
+Wed Nov  1 18:20:47 2023
+Thread 6: Response received
+Wed Nov  1 18:20:48 2023
+Thread 6: Response received
+Wed Nov  1 18:20:48 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:48 2023
+Thread 5: Response received
+Wed Nov  1 18:20:48 2023
+Thread 6: Response received
+Wed Nov  1 18:20:48 2023
+Thread 6: Response received
+Wed Nov  1 18:20:48 2023
+Thread 6: Response received
+Wed Nov  1 18:20:49 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:49 2023
+Thread 6: Response received
+Wed Nov  1 18:20:49 2023
+Thread 6: Response received
+Wed Nov  1 18:20:49 2023
+Thread 6: Response received
+Wed Nov  1 18:20:49 2023
+Thread 5: Response received
+Wed Nov  1 18:20:50 2023
+Thread 6: Response received
+Wed Nov  1 18:20:50 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:50 2023
+Thread 6: Response received
+Wed Nov  1 18:20:50 2023
+Thread 6: Response received
+Wed Nov  1 18:20:50 2023
+Thread 6: Response received
+Wed Nov  1 18:20:51 2023
+Thread 6: Response received
+Wed Nov  1 18:20:51 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:51 2023
+Thread 5: Response received
+Wed Nov  1 18:20:51 2023
+Thread 6: Response received
+Wed Nov  1 18:20:51 2023
+Thread 6: Response received
+Wed Nov  1 18:20:52 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:52 2023
+Thread 6: Response received
+Wed Nov  1 18:20:52 2023
+Thread 6: Response received
+Wed Nov  1 18:20:52 2023
+Thread 6: Response received
+Wed Nov  1 18:20:53 2023
+Thread 6: Response received
+Wed Nov  1 18:20:53 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:53 2023
+Thread 6: Response received
+Wed Nov  1 18:20:53 2023
+Thread 6: Response received
+Wed Nov  1 18:20:53 2023
+Thread 6: Response received
+Wed Nov  1 18:20:54 2023
+Thread 10: Response received
+Wed Nov  1 18:20:54 2023
+Thread 6: Response received
+Wed Nov  1 18:20:54 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:54 2023
+Thread 6: Response received
+Wed Nov  1 18:20:54 2023
+Thread 6: Response received
+Wed Nov  1 18:20:54 2023
+Thread 5: Response received
+Wed Nov  1 18:20:54 2023
+Thread 6: Response received
+Wed Nov  1 18:20:55 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:55 2023
+Thread 6: Response received
+Wed Nov  1 18:20:55 2023
+Thread 6: Response received
+Wed Nov  1 18:20:55 2023
+Thread 6: Response received
+Wed Nov  1 18:20:56 2023
+Thread 6: Response received
+Wed Nov  1 18:20:56 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:56 2023
+Thread 5: Response received
+Wed Nov  1 18:20:56 2023
+Thread 6: Response received
+Wed Nov  1 18:20:56 2023
+Thread 5: Response received
+Wed Nov  1 18:20:57 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:57 2023
+Thread 6: Response received
+Wed Nov  1 18:20:57 2023
+Thread 6: Response received
+Wed Nov  1 18:20:58 2023
+Thread 6: Response received
+Wed Nov  1 18:20:58 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:58 2023
+Thread 5: Response received
+Wed Nov  1 18:20:58 2023
+Thread 6: Response received
+Wed Nov  1 18:20:58 2023
+Thread 6: Response received
+Wed Nov  1 18:20:59 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:20:59 2023
+Thread 6: Response received
+Wed Nov  1 18:20:59 2023
+Thread 6: Response received
+Wed Nov  1 18:20:59 2023
+Thread 5: Response received
+Wed Nov  1 18:21:00 2023
+Thread 6: Response received
+Wed Nov  1 18:21:00 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:00 2023
+Thread 6: Response received
+Wed Nov  1 18:21:00 2023
+Thread 5: Response received
+Wed Nov  1 18:21:00 2023
+Thread 6: Response received
+Wed Nov  1 18:21:01 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:02 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:03 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:03 2023
+Thread 6: Response received
+Wed Nov  1 18:21:04 2023
+Thread 6: Response received
+Wed Nov  1 18:21:04 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:04 2023
+Thread 6: Response received
+Wed Nov  1 18:21:04 2023
+Thread 6: Response received
+Wed Nov  1 18:21:04 2023
+Thread 6: Response received
+Wed Nov  1 18:21:05 2023
+Thread 6: Response received
+Wed Nov  1 18:21:05 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:05 2023
+Thread 6: Response received
+Wed Nov  1 18:21:05 2023
+Thread 6: Response received
+Wed Nov  1 18:21:05 2023
+Thread 6: Response received
+Wed Nov  1 18:21:05 2023
+Thread 5: Response received
+Wed Nov  1 18:21:06 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:06 2023
+Thread 6: Response received
+Wed Nov  1 18:21:06 2023
+Thread 6: Response received
+Wed Nov  1 18:21:06 2023
+Thread 6: Response received
+Wed Nov  1 18:21:07 2023
+Thread 6: Response received
+Wed Nov  1 18:21:07 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:07 2023
+Thread 6: Response received
+Wed Nov  1 18:21:07 2023
+Thread 6: Response received
+Wed Nov  1 18:21:07 2023
+Thread 6: Response received
+Wed Nov  1 18:21:08 2023
+Thread 6: Response received
+Wed Nov  1 18:21:08 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:08 2023
+Thread 6: Response received
+Wed Nov  1 18:21:08 2023
+Thread 6: Response received
+Wed Nov  1 18:21:08 2023
+Thread 6: Response received
+Wed Nov  1 18:21:09 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:09 2023
+Thread 6: Response received
+Wed Nov  1 18:21:09 2023
+Thread 5: Response received
+Wed Nov  1 18:21:09 2023
+Thread 6: Response received
+Wed Nov  1 18:21:09 2023
+Thread 6: Response received
+Wed Nov  1 18:21:09 2023
+Thread 5: Response received
+Wed Nov  1 18:21:10 2023
+Thread 6: Response received
+Wed Nov  1 18:21:10 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:10 2023
+Thread 6: Response received
+Wed Nov  1 18:21:10 2023
+Thread 5: Response received
+Wed Nov  1 18:21:10 2023
+Thread 6: Response received
+Wed Nov  1 18:21:10 2023
+Thread 6: Response received
+Wed Nov  1 18:21:11 2023
+Thread 6: Response received
+Wed Nov  1 18:21:11 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:11 2023
+Thread 6: Response received
+Wed Nov  1 18:21:11 2023
+Thread 6: Response received
+Wed Nov  1 18:21:11 2023
+Thread 6: Response received
+Wed Nov  1 18:21:12 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:12 2023
+Thread 6: Response received
+Wed Nov  1 18:21:12 2023
+Thread 6: Response received
+Wed Nov  1 18:21:12 2023
+Thread 6: Response received
+Wed Nov  1 18:21:13 2023
+Thread 6: Response received
+Wed Nov  1 18:21:13 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:13 2023
+Thread 6: Response received
+Wed Nov  1 18:21:13 2023
+Thread 6: Response received
+Wed Nov  1 18:21:13 2023
+Thread 6: Response received
+Wed Nov  1 18:21:14 2023
+Thread 6: Response received
+Wed Nov  1 18:21:14 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:14 2023
+Thread 6: Response received
+Wed Nov  1 18:21:14 2023
+Thread 6: Response received
+Wed Nov  1 18:21:14 2023
+Thread 6: Response received
+Wed Nov  1 18:21:15 2023
+Thread 10: Error - Timeout was reached
+Wed Nov  1 18:21:15 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:15 2023
+Thread 6: Response received
+Wed Nov  1 18:21:15 2023
+Thread 6: Response received
+Wed Nov  1 18:21:16 2023
+Thread 6: Response received
+Wed Nov  1 18:21:16 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:16 2023
+Thread 6: Response received
+Wed Nov  1 18:21:16 2023
+Thread 6: Response received
+Wed Nov  1 18:21:16 2023
+Thread 6: Response received
+Wed Nov  1 18:21:17 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:17 2023
+Thread 6: Response received
+Wed Nov  1 18:21:17 2023
+Thread 6: Response received
+Wed Nov  1 18:21:17 2023
+Thread 6: Response received
+Wed Nov  1 18:21:18 2023
+Thread 6: Response received
+Wed Nov  1 18:21:18 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:18 2023
+Thread 6: Response received
+Wed Nov  1 18:21:18 2023
+Thread 6: Response received
+Wed Nov  1 18:21:18 2023
+Thread 6: Response received
+Wed Nov  1 18:21:19 2023
+Thread 6: Response received
+Wed Nov  1 18:21:19 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:19 2023
+Thread 6: Response received
+Wed Nov  1 18:21:19 2023
+Thread 6: Response received
+Wed Nov  1 18:21:19 2023
+Thread 6: Response received
+Wed Nov  1 18:21:20 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:20 2023
+Thread 6: Response received
+Wed Nov  1 18:21:20 2023
+Thread 6: Response received
+Wed Nov  1 18:21:20 2023
+Thread 6: Response received
+Wed Nov  1 18:21:21 2023
+Thread 6: Response received
+Wed Nov  1 18:21:21 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:21 2023
+Thread 6: Response received
+Wed Nov  1 18:21:21 2023
+Thread 6: Response received
+Wed Nov  1 18:21:21 2023
+Thread 6: Response received
+Wed Nov  1 18:21:22 2023
+Thread 6: Response received
+Wed Nov  1 18:21:22 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:22 2023
+Thread 6: Response received
+Wed Nov  1 18:21:22 2023
+Thread 6: Response received
+Wed Nov  1 18:21:22 2023
+Thread 6: Response received
+Wed Nov  1 18:21:23 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:23 2023
+Thread 6: Response received
+Wed Nov  1 18:21:23 2023
+Thread 6: Response received
+Wed Nov  1 18:21:23 2023
+Thread 6: Response received
+Wed Nov  1 18:21:24 2023
+Thread 6: Response received
+Wed Nov  1 18:21:24 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:24 2023
+Thread 6: Response received
+Wed Nov  1 18:21:24 2023
+Thread 6: Response received
+Wed Nov  1 18:21:24 2023
+Thread 6: Response received
+Wed Nov  1 18:21:25 2023
+Thread 6: Response received
+Wed Nov  1 18:21:25 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:25 2023
+Thread 6: Response received
+Wed Nov  1 18:21:25 2023
+Thread 6: Response received
+Wed Nov  1 18:21:25 2023
+Thread 6: Response received
+Wed Nov  1 18:21:26 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:26 2023
+Thread 6: Response received
+Wed Nov  1 18:21:26 2023
+Thread 6: Response received
+Wed Nov  1 18:21:26 2023
+Thread 6: Response received
+Wed Nov  1 18:21:27 2023
+Thread 6: Response received
+Wed Nov  1 18:21:27 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:27 2023
+Thread 6: Response received
+Wed Nov  1 18:21:27 2023
+Thread 6: Response received
+Wed Nov  1 18:21:27 2023
+Thread 6: Response received
+Wed Nov  1 18:21:28 2023
+Thread 6: Response received
+Wed Nov  1 18:21:28 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:28 2023
+Thread 6: Response received
+Wed Nov  1 18:21:28 2023
+Thread 6: Response received
+Wed Nov  1 18:21:29 2023
+Thread 6: Response received
+Wed Nov  1 18:21:29 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:29 2023
+Thread 6: Response received
+Wed Nov  1 18:21:29 2023
+Thread 6: Response received
+Wed Nov  1 18:21:29 2023
+Thread 6: Response received
+Wed Nov  1 18:21:30 2023
+Thread 6: Response received
+Wed Nov  1 18:21:30 2023
+Current RAM Usage: 79.000000%
+Wed Nov  1 18:21:30 2023
+Thread 6: Response received
+Wed Nov  1 18:21:50 2023
+Proxies loaded from http_proxies.txt: 745
+Wed Nov  1 18:21:50 2023
+Proxies loaded from socks4_proxies.txt: 1333
+Wed Nov  1 18:21:50 2023
+Proxies loaded from socks5_proxies.txt: 1713
+Wed Nov  1 18:22:22 2023
+Starting request process for URL: http://testphp.vulnweb.com
+Wed Nov  1 18:22:22 2023
+Launching 12 threads for URL: http://testphp.vulnweb.com
+Wed Nov  1 18:22:22 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:22:22 2023
+Thread 1 starting with proxy: 41.220.135.105:8040 and user agent: Mozilla/5.0 (Windows NT 10.0; rv:109.0) Gecko/20100101 Firefox/119.0
+ike Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.57
+
+Wed Nov  1 18:22:22 2023
+Thread 5 starting with proxy: 102.68.128.214:8080 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0
+
+Wed Nov  1 18:22:22 2023
+Thread 6 starting with proxy: 156.67.214.232:80 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43
+Wed Nov  1 18:22:22 2023
+Thread 7 starting with proxy: 157.245.49.74:55555 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.967 YaBrowser/23.9.1.967 Yowser/2.5 Safari/537.36
+Wed Nov  1 18:22:22 2023
+Thread 8 starting with proxy: 157.245.49.74:55555 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.967 YaBrowser/23.9.1.967 Yowser/2.5 Safari/537.36
+Wed Nov  1 18:22:22 2023
+Thread 9 starting with proxy: 111.20.217.178:9091 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Wed Nov  1 18:22:22 2023
+Thread 10 starting with proxy: 98.162.96.52:4145 and user agent: Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+Wed Nov  1 18:22:22 2023
+Thread 12 starting with proxy: 222.190.208.233:8089 and user agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
+Version/17.0 Safari/605.1.15
+Wed Nov  1 18:22:23 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:22:23 2023
+Thread 11: Response received
+Wed Nov  1 18:22:24 2023
+Thread 11: Response received
+Wed Nov  1 18:22:24 2023
+Thread 11: Response received
+Wed Nov  1 18:22:24 2023
+Thread 11: Response received
+Wed Nov  1 18:22:24 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:22:24 2023
+Thread 11: Response received
+Wed Nov  1 18:22:27 2023
+Proxies loaded from http_proxies.txt: 745
+Wed Nov  1 18:22:27 2023
+Proxies loaded from socks4_proxies.txt: 1333
+Wed Nov  1 18:22:27 2023
+Proxies loaded from socks5_proxies.txt: 1713
+Wed Nov  1 18:22:29 2023
+Starting request process for URL: http://testphp.vulnweb.com
+Wed Nov  1 18:22:29 2023
+Launching 12 threads for URL: http://testphp.vulnweb.com
+Wed Nov  1 18:22:29 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:29 2023
+Thread 4 starting with proxy: 52.117.157.155:8002 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46Wed Nov  1 18:22:29 2023
+Thread 5 starting with proxy: 45.249.67.108:1080 and user agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+Wed Nov  1 18:22:29 2023
+Thread 2 starting with proxy: 45.11.95.165:6001 and user agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+Wed Nov  1 18:22:29 2023
+Thread 6 starting with proxy: 186.189.66.18:4153 and user agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Wed Nov  1 18:22:29 2023
+Thread 7 starting with proxy: 109.94.178.238:3629 and user agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0
+Wed Nov  1 18:22:29 2023
+Thread 8 starting with proxy: 208.109.15.133:17556 and user agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+Wed Nov  1 18:22:29 2023
+Thread 9 starting with proxy: 119.179.232.219:7890 and user agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+Wed Nov  1 18:22:29 2023
+Thread 10 starting with proxy: 216.238.99.171:80 and user agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0
+Wed Nov  1 18:22:29 2023
+Thread 11 starting with proxy: 187.62.64.155:45005 and user agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/99.0.4844.47 Mobile/15E148 Safari/604.1
+Wed Nov  1 18:22:29 2023
+Thread 12 starting with proxy: 163.53.82.238:32650 and user agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+Wed Nov  1 18:22:30 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:31 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:32 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:32 2023
+Thread 1: Error - Couldn't connect to server
+Wed Nov  1 18:22:33 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:34 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:35 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:36 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:37 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:38 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:39 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:40 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:41 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:42 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:43 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:44 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:45 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:46 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:47 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:48 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:49 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:50 2023
+Thread 3: Error - Timeout was reached
+Wed Nov  1 18:22:50 2023
+Thread 2: Error - Timeout was reached
+Wed Nov  1 18:22:50 2023
+Thread 5: Error - Timeout was reached
+Wed Nov  1 18:22:50 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:50 2023
+Thread 10: Error - Timeout was reached
+Wed Nov  1 18:22:50 2023
+Thread 11: Error - Timeout was reached
+Wed Nov  1 18:22:50 2023
+Thread 8: Error - Timeout was reached
+Wed Nov  1 18:22:50 2023
+Thread 9: Error - Timeout was reached
+Wed Nov  1 18:22:50 2023
+Thread 7: Error - Timeout was reached
+Wed Nov  1 18:22:50 2023
+Thread 12: Error - Timeout was reached
+Wed Nov  1 18:22:51 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:52 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:53 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:54 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:55 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:56 2023
+Current RAM Usage: 81.000000%
+Wed Nov  1 18:22:57 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:22:58 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:22:59 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:23:00 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:23:01 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:23:02 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:23:03 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:23:04 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:05 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:06 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:07 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:08 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:09 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:10 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:11 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:12 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:13 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:14 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:15 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:16 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:17 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:18 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:19 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:20 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:21 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:22 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:23 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:24 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:25 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:26 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:27 2023
+Current RAM Usage: 84.000000%
+Wed Nov  1 18:23:28 2023
+Current RAM Usage: 84.000000%
+Wed Nov  1 18:23:29 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:30 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:31 2023
+Thread 4: Response received
+Wed Nov  1 18:23:31 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:32 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:33 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:34 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:35 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:36 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:37 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:38 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:39 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:40 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:41 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:42 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:43 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:44 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:45 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:46 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:47 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:48 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:49 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:50 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:51 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:52 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:53 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:23:54 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:55 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:23:56 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:23:57 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:23:58 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:23:59 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:00 2023
+Thread 4: Response received
+Wed Nov  1 18:24:00 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:01 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:02 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:03 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:04 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:05 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:06 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:07 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:08 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:09 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:10 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:11 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:12 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:13 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:14 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:15 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:16 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:17 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:18 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:19 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:20 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:21 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:22 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:23 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:24:24 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:25 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:26 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:27 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:28 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:29 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:30 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:31 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:32 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:33 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:34 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:35 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:36 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:37 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:38 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:39 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:40 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:41 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:42 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:43 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:44 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:45 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:46 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:47 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:48 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:49 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:50 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:51 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:52 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:53 2023
+Thread 4: Response received
+Wed Nov  1 18:24:53 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:54 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:55 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:56 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:57 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:58 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:24:59 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:00 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:01 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:02 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:03 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:04 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:05 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:06 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:07 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:08 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:09 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:10 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:11 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:12 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:13 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:14 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:15 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:16 2023
+Thread 4: Response received
+Wed Nov  1 18:25:16 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:17 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:18 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:19 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:20 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:21 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:22 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:23 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:25:24 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:25 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:26 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:27 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:28 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:29 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:30 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:31 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:32 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:33 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:34 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:35 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:36 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:37 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:38 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:39 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:40 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:41 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:42 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:43 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:44 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:45 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:46 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:47 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:48 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:49 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:50 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:51 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:52 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:53 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:54 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:55 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:56 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:57 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:58 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:25:59 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:00 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:01 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:02 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:03 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:04 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:05 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:06 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:07 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:08 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:09 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:10 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:11 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:12 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:13 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:14 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:15 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:16 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:17 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:18 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:19 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:20 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:21 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:22 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:23 2023
+Thread 4: Response received
+Wed Nov  1 18:26:23 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:24 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:25 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:26 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:27 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:28 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:29 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:30 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:31 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:32 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:33 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:34 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:35 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:36 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:37 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:38 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:39 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:40 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:41 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:42 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:43 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:44 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:45 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:46 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:47 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:48 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:49 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:50 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:51 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:52 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:53 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:54 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:26:55 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:56 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:57 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:58 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:26:59 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:27:00 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:27:01 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:02 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:03 2023
+Current RAM Usage: 84.000000%
+Wed Nov  1 18:27:04 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:27:05 2023
+Current RAM Usage: 83.000000%
+Wed Nov  1 18:27:06 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:07 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:08 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:09 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:10 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:11 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:12 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:13 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:14 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:15 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:16 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:17 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:18 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:19 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:20 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:21 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:22 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:23 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:24 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:25 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:26 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:27 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:28 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:29 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:30 2023
+Thread 4: Response received
+Wed Nov  1 18:27:30 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:31 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:32 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:33 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:34 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:35 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:36 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:37 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:38 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:39 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:40 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:41 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:42 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:43 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:44 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:45 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:46 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:47 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:48 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:49 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:50 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:27:51 2023
+Current RAM Usage: 82.000000%
+Wed Nov  1 18:34:28 2023
+Proxies loaded from http_proxies.txt: 745
+Wed Nov  1 18:34:28 2023
+Proxies loaded from socks4_proxies.txt: 1333
+Wed Nov  1 18:34:28 2023
+Proxies loaded from socks5_proxies.txt: 1713
+Wed Nov  1 18:34:38 2023
+Starting request process for URL: 140.82.121.3
+Wed Nov  1 18:34:38 2023
+Launching 12 threads for URL: 140.82.121.3
+Wed Nov  1 18:34:38 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:38 2023
+Thread 2 starting with proxy: 118.69.134.0:80 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+Wed Nov  1 18:34:38 2023
+Thread 5 starting with proxy: 153.127.248.65:8080 and user agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+i/537.36
+Wed Nov  1 18:34:38 2023
+Thread 1 starting with proxy: 95.128.142.76:1080 and user agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+Wed Nov  1 18:34:38 2023
+Thread 6 starting with proxy: 8.213.151.128:3128 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47
+Wed Nov  1 18:34:38 2023
+Thread 7 starting with proxy: 202.173.220.18:45954 and user agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+Wed Nov  1 18:34:38 2023
+Thread 8 starting with proxy: 192.3.243.115:30740 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+Wed Nov  1 18:34:38 2023
+Thread 9 starting with proxy: 117.54.114.102:80 and user agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Wed Nov  1 18:34:38 2023
+Thread 10 starting with proxy: 134.209.245.159:1080 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Wed Nov  1 18:34:38 2023
+Thread 11 starting with proxy: 92.63.168.248:80 and user agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Wed Nov  1 18:34:38 2023
+Thread 12 starting with proxy: 120.82.174.128:9091 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Wed Nov  1 18:34:39 2023
+Thread 10: Error - Server returned nothing (no headers, no data)
+Wed Nov  1 18:34:39 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:39 2023
+Thread 2: Response received
+Wed Nov  1 18:34:40 2023
+Thread 12: Response received
+Wed Nov  1 18:34:40 2023
+Thread 4: Error - Failure when receiving data from the peer
+Wed Nov  1 18:34:40 2023
+Thread 2: Response received
+Wed Nov  1 18:34:40 2023
+Thread 11: Response received
+Wed Nov  1 18:34:40 2023
+Thread 12: Response received
+Wed Nov  1 18:34:40 2023
+Thread 9: Response received
+Wed Nov  1 18:34:40 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:41 2023
+Thread 2: Response received
+Wed Nov  1 18:34:41 2023
+Thread 9: Response received
+Wed Nov  1 18:34:41 2023
+Thread 12: Response received
+Wed Nov  1 18:34:41 2023
+Thread 2: Response received
+Wed Nov  1 18:34:41 2023
+Thread 9: Response received
+Wed Nov  1 18:34:41 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:42 2023
+Thread 2: Response received
+Wed Nov  1 18:34:42 2023
+Thread 12: Response received
+Wed Nov  1 18:34:42 2023
+Thread 9: Response received
+Wed Nov  1 18:34:42 2023
+Thread 2: Response received
+Wed Nov  1 18:34:42 2023
+Thread 11: Response received
+Wed Nov  1 18:34:42 2023
+Thread 9: Response received
+Wed Nov  1 18:34:42 2023
+Thread 12: Response received
+Wed Nov  1 18:34:42 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:43 2023
+Thread 2: Response received
+Wed Nov  1 18:34:43 2023
+Thread 9: Response received
+Wed Nov  1 18:34:43 2023
+Thread 12: Response received
+Wed Nov  1 18:34:43 2023
+Thread 2: Response received
+Wed Nov  1 18:34:43 2023
+Thread 9: Response received
+Wed Nov  1 18:34:43 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:44 2023
+Thread 2: Response received
+Wed Nov  1 18:34:44 2023
+Thread 12: Response received
+Wed Nov  1 18:34:44 2023
+Thread 9: Response received
+Wed Nov  1 18:34:44 2023
+Thread 11: Response received
+Wed Nov  1 18:34:44 2023
+Thread 9: Response received
+Wed Nov  1 18:34:44 2023
+Thread 2: Response received
+Wed Nov  1 18:34:44 2023
+Thread 12: Response received
+Wed Nov  1 18:34:44 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:45 2023
+Thread 9: Response received
+Wed Nov  1 18:34:45 2023
+Thread 2: Response received
+Wed Nov  1 18:34:45 2023
+Thread 9: Response received
+Wed Nov  1 18:34:45 2023
+Thread 12: Response received
+Wed Nov  1 18:34:45 2023
+Thread 2: Response received
+Wed Nov  1 18:34:45 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:45 2023
+Thread 9: Response received
+Wed Nov  1 18:34:46 2023
+Thread 2: Response received
+Wed Nov  1 18:34:46 2023
+Thread 12: Response received
+Wed Nov  1 18:34:46 2023
+Thread 2: Response received
+Wed Nov  1 18:34:46 2023
+Thread 9: Response received
+Wed Nov  1 18:34:46 2023
+Thread 12: Response received
+Wed Nov  1 18:34:46 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:47 2023
+Thread 2: Response received
+Wed Nov  1 18:34:47 2023
+Thread 11: Response received
+Wed Nov  1 18:34:47 2023
+Thread 9: Response received
+Wed Nov  1 18:34:47 2023
+Thread 12: Response received
+Wed Nov  1 18:34:47 2023
+Thread 2: Response received
+Wed Nov  1 18:34:47 2023
+Thread 9: Response received
+Wed Nov  1 18:34:47 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:48 2023
+Thread 12: Response received
+Wed Nov  1 18:34:48 2023
+Thread 9: Response received
+Wed Nov  1 18:34:48 2023
+Thread 2: Response received
+Wed Nov  1 18:34:48 2023
+Thread 11: Response received
+Wed Nov  1 18:34:48 2023
+Thread 9: Response received
+Wed Nov  1 18:34:48 2023
+Thread 2: Response received
+Wed Nov  1 18:34:48 2023
+Thread 12: Response received
+Wed Nov  1 18:34:48 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:49 2023
+Thread 11: Response received
+Wed Nov  1 18:34:49 2023
+Thread 9: Response received
+Wed Nov  1 18:34:49 2023
+Thread 2: Response received
+Wed Nov  1 18:34:49 2023
+Thread 11: Response received
+Wed Nov  1 18:34:49 2023
+Thread 12: Response received
+Wed Nov  1 18:34:49 2023
+Thread 9: Response received
+Wed Nov  1 18:34:49 2023
+Thread 2: Response received
+Wed Nov  1 18:34:49 2023
+Thread 11: Response received
+Wed Nov  1 18:34:49 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:50 2023
+Thread 9: Response received
+Wed Nov  1 18:34:50 2023
+Thread 2: Response received
+Wed Nov  1 18:34:50 2023
+Thread 11: Response received
+Wed Nov  1 18:34:50 2023
+Thread 2: Response received
+Wed Nov  1 18:34:50 2023
+Thread 9: Response received
+Wed Nov  1 18:34:50 2023
+Thread 11: Response received
+Wed Nov  1 18:34:50 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:51 2023
+Thread 2: Response received
+Wed Nov  1 18:34:51 2023
+Thread 9: Response received
+Wed Nov  1 18:34:51 2023
+Thread 12: Response received
+Wed Nov  1 18:34:51 2023
+Thread 11: Response received
+Wed Nov  1 18:34:51 2023
+Thread 9: Response received
+Wed Nov  1 18:34:51 2023
+Thread 2: Response received
+Wed Nov  1 18:34:51 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:52 2023
+Thread 11: Response received
+Wed Nov  1 18:34:52 2023
+Thread 12: Response received
+Wed Nov  1 18:34:52 2023
+Thread 9: Response received
+Wed Nov  1 18:34:52 2023
+Thread 2: Response received
+Wed Nov  1 18:34:52 2023
+Thread 11: Response received
+Wed Nov  1 18:34:52 2023
+Thread 9: Response received
+Wed Nov  1 18:34:52 2023
+Thread 2: Response received
+Wed Nov  1 18:34:52 2023
+Thread 12: Response received
+Wed Nov  1 18:34:52 2023
+Thread 11: Response received
+Wed Nov  1 18:34:52 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:53 2023
+Thread 9: Response received
+Wed Nov  1 18:34:53 2023
+Thread 11: Response received
+Wed Nov  1 18:34:53 2023
+Thread 2: Response received
+Wed Nov  1 18:34:53 2023
+Thread 11: Response received
+Wed Nov  1 18:34:53 2023
+Thread 12: Response received
+Wed Nov  1 18:34:53 2023
+Thread 9: Response received
+Wed Nov  1 18:34:53 2023
+Thread 11: Response received
+Wed Nov  1 18:34:53 2023
+Thread 2: Response received
+Wed Nov  1 18:34:53 2023
+Thread 11: Response received
+Wed Nov  1 18:34:53 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:54 2023
+Thread 9: Response received
+Wed Nov  1 18:34:54 2023
+Thread 11: Response received
+Wed Nov  1 18:34:54 2023
+Thread 12: Response received
+Wed Nov  1 18:34:54 2023
+Thread 2: Response received
+Wed Nov  1 18:34:54 2023
+Thread 11: Response received
+Wed Nov  1 18:34:54 2023
+Thread 9: Response received
+Wed Nov  1 18:34:54 2023
+Thread 11: Response received
+Wed Nov  1 18:34:54 2023
+Thread 2: Response received
+Wed Nov  1 18:34:54 2023
+Thread 12: Response received
+Wed Nov  1 18:34:54 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:54 2023
+Thread 11: Response received
+Wed Nov  1 18:34:55 2023
+Thread 9: Response received
+Wed Nov  1 18:34:55 2023
+Thread 11: Response received
+Wed Nov  1 18:34:55 2023
+Thread 2: Response received
+Wed Nov  1 18:34:55 2023
+Thread 12: Response received
+Wed Nov  1 18:34:55 2023
+Thread 11: Response received
+Wed Nov  1 18:34:55 2023
+Thread 9: Response received
+Wed Nov  1 18:34:55 2023
+Thread 2: Response received
+Wed Nov  1 18:34:55 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:56 2023
+Thread 12: Response received
+Wed Nov  1 18:34:56 2023
+Thread 9: Response received
+Wed Nov  1 18:34:56 2023
+Thread 2: Response received
+Wed Nov  1 18:34:56 2023
+Thread 9: Response received
+Wed Nov  1 18:34:56 2023
+Thread 11: Response received
+Wed Nov  1 18:34:56 2023
+Thread 2: Response received
+Wed Nov  1 18:34:56 2023
+Thread 12: Response received
+Wed Nov  1 18:34:56 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:57 2023
+Thread 9: Response received
+Wed Nov  1 18:34:57 2023
+Thread 2: Response received
+Wed Nov  1 18:34:57 2023
+Thread 12: Response received
+Wed Nov  1 18:34:57 2023
+Thread 9: Response received
+Wed Nov  1 18:34:57 2023
+Thread 2: Response received
+Wed Nov  1 18:34:57 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:58 2023
+Thread 11: Response received
+Wed Nov  1 18:34:58 2023
+Thread 9: Response received
+Wed Nov  1 18:34:58 2023
+Thread 12: Response received
+Wed Nov  1 18:34:58 2023
+Thread 2: Response received
+Wed Nov  1 18:34:58 2023
+Thread 9: Response received
+Wed Nov  1 18:34:58 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:58 2023
+Thread 2: Response received
+Wed Nov  1 18:34:59 2023
+Thread 12: Response received
+Wed Nov  1 18:34:59 2023
+Thread 9: Response received
+Wed Nov  1 18:34:59 2023
+Thread 2: Response received
+Wed Nov  1 18:34:59 2023
+Thread 11: Response received
+Wed Nov  1 18:34:59 2023
+Thread 12: Response received
+Wed Nov  1 18:34:59 2023
+Thread 9: Response received
+Wed Nov  1 18:34:59 2023
+Thread 3: Error - Timeout was reached
+Wed Nov  1 18:34:59 2023
+Thread 1: Error - Timeout was reached
+Wed Nov  1 18:34:59 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:34:59 2023
+Thread 5: Error - Timeout was reached
+Wed Nov  1 18:34:59 2023
+Thread 8: Error - Timeout was reached
+Wed Nov  1 18:34:59 2023
+Thread 7: Error - Timeout was reached
+Wed Nov  1 18:34:59 2023
+Thread 2: Response received
+Wed Nov  1 18:35:00 2023
+Thread 12: Response received
+Wed Nov  1 18:35:00 2023
+Thread 2: Response received
+Wed Nov  1 18:35:00 2023
+Thread 9: Response received
+Wed Nov  1 18:35:00 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:35:01 2023
+Thread 2: Response received
+Wed Nov  1 18:35:01 2023
+Thread 12: Response received
+Wed Nov  1 18:35:01 2023
+Thread 9: Response received
+Wed Nov  1 18:35:01 2023
+Thread 2: Response received
+Wed Nov  1 18:35:01 2023
+Thread 9: Response received
+Wed Nov  1 18:35:01 2023
+Thread 12: Response received
+Wed Nov  1 18:35:01 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:35:02 2023
+Thread 2: Response received
+Wed Nov  1 18:35:02 2023
+Thread 9: Response received
+Wed Nov  1 18:35:02 2023
+Thread 11: Response received
+Wed Nov  1 18:35:02 2023
+Thread 12: Response received
+Wed Nov  1 18:35:02 2023
+Thread 9: Response received
+Wed Nov  1 18:35:02 2023
+Thread 2: Response received
+Wed Nov  1 18:35:02 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:35:03 2023
+Thread 9: Response received
+Wed Nov  1 18:35:03 2023
+Thread 2: Response received
+Wed Nov  1 18:35:03 2023
+Thread 12: Response received
+Wed Nov  1 18:35:03 2023
+Thread 9: Response received
+Wed Nov  1 18:35:03 2023
+Thread 2: Response received
+Wed Nov  1 18:35:03 2023
+Thread 11: Response received
+Wed Nov  1 18:35:03 2023
+Thread 12: Response received
+Wed Nov  1 18:35:03 2023
+Thread 9: Response received
+Wed Nov  1 18:35:03 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:35:04 2023
+Thread 2: Response received
+Wed Nov  1 18:35:04 2023
+Thread 2: Response received
+Wed Nov  1 18:35:04 2023
+Thread 12: Response received
+Wed Nov  1 18:35:04 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:35:04 2023
+Thread 11: Response received
+Wed Nov  1 18:35:05 2023
+Thread 9: Response received
+Wed Nov  1 18:35:05 2023
+Thread 2: Response received
+Wed Nov  1 18:35:05 2023
+Thread 9: Response received
+Wed Nov  1 18:35:05 2023
+Thread 12: Response received
+Wed Nov  1 18:35:05 2023
+Thread 2: Response received
+Wed Nov  1 18:35:05 2023
+Thread 11: Response received
+Wed Nov  1 18:35:05 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:35:06 2023
+Thread 9: Response received
+Wed Nov  1 18:35:06 2023
+Thread 2: Response received
+Wed Nov  1 18:35:06 2023
+Thread 12: Response received
+Wed Nov  1 18:35:06 2023
+Thread 9: Response received
+Wed Nov  1 18:35:06 2023
+Thread 2: Response received
+Wed Nov  1 18:35:06 2023
+Thread 11: Response received
+Wed Nov  1 18:35:06 2023
+Thread 9: Response received
+Wed Nov  1 18:35:06 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 18:35:06 2023
+Thread 12: Response received
+Wed Nov  1 18:35:07 2023
+Thread 2: Response received
+Wed Nov  1 18:35:07 2023
+Thread 9: Response received
+Wed Nov  1 18:35:07 2023
+Thread 12: Response received
+Wed Nov  1 18:35:07 2023
+Thread 2: Response received
+Wed Nov  1 19:03:56 2023
+Proxies loaded from http_proxies.txt: 745
+Wed Nov  1 19:03:56 2023
+Proxies loaded from socks4_proxies.txt: 1333
+Wed Nov  1 19:03:56 2023
+Proxies loaded from socks5_proxies.txt: 1713
+Wed Nov  1 19:04:22 2023
+Starting request process for URL: 140.82.121.4
+Wed Nov  1 19:04:22 2023
+Launching 12 threads for URL: 140.82.121.4
+Wed Nov  1 19:04:22 2023
+Current RAM Usage: 73.000000%
+Wed Nov  1 19:06:57 2023
+Proxies loaded from http_proxies.txt: 745
+Wed Nov  1 19:06:57 2023
+Proxies loaded from socks4_proxies.txt: 1333
+Wed Nov  1 19:06:57 2023
+Proxies loaded from socks5_proxies.txt: 1713
+Wed Nov  1 19:07:04 2023
+Starting request process for URL: 140.82.121.4
+Wed Nov  1 19:07:04 2023
+Launching 12 threads for URL: 140.82.121.4
+Wed Nov  1 19:07:04 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:07:04 2023
+Thread 4 starting with proxy: 197.91.178.46:8080 and user agent: Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+Edg/117.0.2045.43
+Wed Nov  1 19:07:04 2023
+Thread 3 starting with proxy: 159.138.252.45:3128 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+Wed Nov  1 19:07:04 2023
+Thread 6 starting with proxy: 179.49.117.98:888 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+Wed Nov  1 19:07:04 2023
+Thread 8 starting with proxy: 192.111.135.18:18301 and user agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36
+Wed Nov  1 19:07:04 2023
+Thread 9 starting with proxy: 38.60.249.110:3128 and user agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/119.0
+Wed Nov  1 19:07:04 2023
+Thread 10 starting with proxy: 179.1.110.88:5678 and user agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15
+Wed Nov  1 19:07:04 2023
+Thread 11 starting with proxy: 95.216.22.119:16347 and user agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+Wed Nov  1 19:07:04 2023
+Thread 12 starting with proxy: 103.76.15.202:5678 and user agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15
+Wed Nov  1 19:07:05 2023
+Thread 8: Error - Failure when receiving data from the peer
+Wed Nov  1 19:07:05 2023
+Thread 10: Error - Server returned nothing (no headers, no data)
+Wed Nov  1 19:07:05 2023
+Thread 4: Error - Server returned nothing (no headers, no data)
+Wed Nov  1 19:07:05 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:07:06 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:07:07 2023
+Thread 3: Response received
+Wed Nov  1 19:07:07 2023
+Thread 5: Error - Couldn't connect to server
+Wed Nov  1 19:07:07 2023
+Thread 3: Response received
+Wed Nov  1 19:07:07 2023
+Thread 6: Error - Couldn't connect to server
+Wed Nov  1 19:07:07 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:07:08 2023
+Thread 3: Response received
+Wed Nov  1 19:07:08 2023
+Thread 3: Response received
+Wed Nov  1 19:07:08 2023
+Thread 3: Response received
+Wed Nov  1 19:14:56 2023
+Proxies loaded from http_proxies.txt: 745
+Wed Nov  1 19:14:56 2023
+Proxies loaded from socks4_proxies.txt: 1333
+Wed Nov  1 19:14:56 2023
+Proxies loaded from socks5_proxies.txt: 1713
+Wed Nov  1 19:15:32 2023
+Starting request process for URL: 140.82.121.3
+Wed Nov  1 19:15:32 2023
+Launching 12 threads for URL: 140.82.121.3
+Wed Nov  1 19:15:32 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:32 2023
+Thread 1 starting with proxy: 185.72.58.155:5678 and user agent: Mozilla/5.0 (Windows NT 10.0; rv:109.0) Gecko/20100101 Firefox/119.0
+like Gecko) Chrome/114.0.0.0 Safari/537.36
+
+Wed Nov  1 19:15:32 2023
+Thread 4 starting with proxy: 141.101.121.67:80 and user agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+ri/537.36 Edg/117.0.2045.47
+Wed Nov  1 19:15:32 2023
+Thread 4: Response received
+Wed Nov  1 19:15:32 2023
+Thread 6 starting with proxy: 117.102.85.162:55435 and user agent: Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+Wed Nov  1 19:15:32 2023
+Thread 8 starting with proxy: 213.145.134.174:3629 and user agent: Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+ like Gecko) Version/17.0 Safari/605.1.15
+Wed Nov  1 19:15:32 2023
+Thread 9 starting with proxy: 132.255.210.117:999 and user agent: Mozilla/5.0 (Windows NT 10.0; rv:109.0) Gecko/20100101 Firefox/118.0
+Wed Nov  1 19:15:32 2023
+Thread 10 starting with proxy: 207.180.228.214:25383 and user agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Wed Nov  1 19:15:32 2023
+Thread 11 starting with proxy: 88.254.58.69:80 and user agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Wed Nov  1 19:15:32 2023
+Thread 12 starting with proxy: 64.90.48.145:25254 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+Wed Nov  1 19:15:32 2023
+Thread 3: Error - Server returned nothing (no headers, no data)
+Wed Nov  1 19:15:32 2023
+Thread 4: Response received
+Wed Nov  1 19:15:32 2023
+Thread 4: Response received
+Wed Nov  1 19:15:32 2023
+Thread 4: Response received
+Wed Nov  1 19:15:32 2023
+Thread 4: Response received
+Wed Nov  1 19:15:32 2023
+Thread 4: Response received
+Wed Nov  1 19:15:32 2023
+Thread 4: Response received
+Wed Nov  1 19:15:33 2023
+Thread 4: Response received
+Wed Nov  1 19:15:33 2023
+Thread 4: Response received
+Wed Nov  1 19:15:33 2023
+Thread 4: Response received
+Wed Nov  1 19:15:33 2023
+Thread 4: Response received
+Wed Nov  1 19:15:33 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:33 2023
+Thread 4: Response received
+Wed Nov  1 19:15:33 2023
+Thread 4: Response received
+Wed Nov  1 19:15:33 2023
+Thread 4: Response received
+Wed Nov  1 19:15:33 2023
+Thread 4: Response received
+Wed Nov  1 19:15:33 2023
+Thread 4: Response received
+Wed Nov  1 19:15:34 2023
+Thread 4: Response received
+Wed Nov  1 19:15:34 2023
+Thread 4: Response received
+Wed Nov  1 19:15:34 2023
+Thread 4: Response received
+Wed Nov  1 19:15:34 2023
+Thread 4: Response received
+Wed Nov  1 19:15:34 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:34 2023
+Thread 4: Response received
+Wed Nov  1 19:15:34 2023
+Thread 4: Response received
+Wed Nov  1 19:15:34 2023
+Thread 4: Response received
+Wed Nov  1 19:15:34 2023
+Thread 4: Response received
+Wed Nov  1 19:15:34 2023
+Thread 4: Response received
+Wed Nov  1 19:15:34 2023
+Thread 4: Response received
+Wed Nov  1 19:15:34 2023
+Thread 4: Response received
+Wed Nov  1 19:15:35 2023
+Thread 4: Response received
+Wed Nov  1 19:15:35 2023
+Thread 4: Response received
+Wed Nov  1 19:15:35 2023
+Thread 4: Response received
+Wed Nov  1 19:15:35 2023
+Thread 4: Response received
+Wed Nov  1 19:15:35 2023
+Thread 4: Response received
+Wed Nov  1 19:15:35 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:35 2023
+Thread 4: Response received
+Wed Nov  1 19:15:35 2023
+Thread 1: Error - Server returned nothing (no headers, no data)
+Wed Nov  1 19:15:35 2023
+Thread 4: Response received
+Wed Nov  1 19:15:36 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:36 2023
+Thread 4: Response received
+Wed Nov  1 19:15:36 2023
+Thread 4: Response received
+Wed Nov  1 19:15:36 2023
+Thread 4: Response received
+Wed Nov  1 19:15:36 2023
+Thread 4: Response received
+Wed Nov  1 19:15:37 2023
+Thread 4: Response received
+Wed Nov  1 19:15:37 2023
+Thread 4: Response received
+Wed Nov  1 19:15:37 2023
+Thread 4: Response received
+Wed Nov  1 19:15:37 2023
+Thread 4: Response received
+Wed Nov  1 19:15:37 2023
+Thread 4: Response received
+Wed Nov  1 19:15:37 2023
+Thread 4: Response received
+Wed Nov  1 19:15:37 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:37 2023
+Thread 4: Response received
+Wed Nov  1 19:15:37 2023
+Thread 4: Response received
+Wed Nov  1 19:15:37 2023
+Thread 4: Response received
+Wed Nov  1 19:15:37 2023
+Thread 4: Response received
+Wed Nov  1 19:15:37 2023
+Thread 4: Response received
+Wed Nov  1 19:15:38 2023
+Thread 4: Response received
+Wed Nov  1 19:15:38 2023
+Thread 4: Response received
+Wed Nov  1 19:15:38 2023
+Thread 4: Response received
+Wed Nov  1 19:15:38 2023
+Thread 4: Response received
+Wed Nov  1 19:15:38 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:38 2023
+Thread 4: Response received
+Wed Nov  1 19:15:38 2023
+Thread 4: Response received
+Wed Nov  1 19:15:38 2023
+Thread 4: Response received
+Wed Nov  1 19:15:38 2023
+Thread 4: Response received
+Wed Nov  1 19:15:38 2023
+Thread 4: Response received
+Wed Nov  1 19:15:38 2023
+Thread 4: Response received
+Wed Nov  1 19:15:39 2023
+Thread 4: Response received
+Wed Nov  1 19:15:39 2023
+Thread 4: Response received
+Wed Nov  1 19:15:39 2023
+Thread 4: Response received
+Wed Nov  1 19:15:39 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:39 2023
+Thread 4: Response received
+Wed Nov  1 19:15:39 2023
+Thread 4: Response received
+Wed Nov  1 19:15:39 2023
+Thread 4: Response received
+Wed Nov  1 19:15:39 2023
+Thread 4: Response received
+Wed Nov  1 19:15:39 2023
+Thread 4: Response received
+Wed Nov  1 19:15:39 2023
+Thread 4: Response received
+Wed Nov  1 19:15:40 2023
+Thread 4: Response received
+Wed Nov  1 19:15:40 2023
+Thread 4: Response received
+Wed Nov  1 19:15:40 2023
+Thread 4: Response received
+Wed Nov  1 19:15:40 2023
+Thread 4: Response received
+Wed Nov  1 19:15:40 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:40 2023
+Thread 4: Response received
+Wed Nov  1 19:15:40 2023
+Thread 4: Response received
+Wed Nov  1 19:15:40 2023
+Thread 4: Response received
+Wed Nov  1 19:15:40 2023
+Thread 4: Response received
+Wed Nov  1 19:15:40 2023
+Thread 4: Response received
+Wed Nov  1 19:15:41 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:42 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:43 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:43 2023
+Thread 4: Response received
+Wed Nov  1 19:15:44 2023
+Thread 4: Response received
+Wed Nov  1 19:15:44 2023
+Thread 4: Response received
+Wed Nov  1 19:15:44 2023
+Thread 4: Response received
+Wed Nov  1 19:15:44 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:44 2023
+Thread 4: Response received
+Wed Nov  1 19:15:44 2023
+Thread 4: Response received
+Wed Nov  1 19:15:45 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:45 2023
+Thread 4: Response received
+Wed Nov  1 19:15:45 2023
+Thread 4: Response received
+Wed Nov  1 19:15:45 2023
+Thread 4: Response received
+Wed Nov  1 19:15:45 2023
+Thread 4: Response received
+Wed Nov  1 19:15:45 2023
+Thread 4: Response received
+Wed Nov  1 19:15:46 2023
+Thread 4: Response received
+Wed Nov  1 19:15:46 2023
+Thread 4: Response received
+Wed Nov  1 19:15:46 2023
+Thread 4: Response received
+Wed Nov  1 19:15:46 2023
+Thread 4: Response received
+Wed Nov  1 19:15:46 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:46 2023
+Thread 4: Response received
+Wed Nov  1 19:15:46 2023
+Thread 4: Response received
+Wed Nov  1 19:15:46 2023
+Thread 4: Response received
+Wed Nov  1 19:15:46 2023
+Thread 4: Response received
+Wed Nov  1 19:15:46 2023
+Thread 4: Response received
+Wed Nov  1 19:15:46 2023
+Thread 4: Response received
+Wed Nov  1 19:15:47 2023
+Thread 4: Response received
+Wed Nov  1 19:15:47 2023
+Thread 4: Response received
+Wed Nov  1 19:15:47 2023
+Thread 4: Response received
+Wed Nov  1 19:15:47 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:48 2023
+Thread 4: Response received
+Wed Nov  1 19:15:48 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:48 2023
+Thread 4: Response received
+Wed Nov  1 19:15:48 2023
+Thread 4: Response received
+Wed Nov  1 19:15:48 2023
+Thread 4: Response received
+Wed Nov  1 19:15:48 2023
+Thread 4: Response received
+Wed Nov  1 19:15:48 2023
+Thread 4: Response received
+Wed Nov  1 19:15:48 2023
+Thread 4: Response received
+Wed Nov  1 19:15:49 2023
+Thread 4: Response received
+Wed Nov  1 19:15:49 2023
+Thread 4: Response received
+Wed Nov  1 19:15:49 2023
+Thread 4: Response received
+Wed Nov  1 19:15:49 2023
+Thread 4: Response received
+Wed Nov  1 19:15:49 2023
+Thread 4: Response received
+Wed Nov  1 19:15:49 2023
+Thread 4: Response received
+Wed Nov  1 19:15:49 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:49 2023
+Thread 4: Response received
+Wed Nov  1 19:15:49 2023
+Thread 4: Response received
+Wed Nov  1 19:15:49 2023
+Thread 4: Response received
+Wed Nov  1 19:15:49 2023
+Thread 4: Response received
+Wed Nov  1 19:15:49 2023
+Thread 4: Response received
+Wed Nov  1 19:15:49 2023
+Thread 4: Response received
+Wed Nov  1 19:15:50 2023
+Thread 4: Response received
+Wed Nov  1 19:15:50 2023
+Thread 4: Response received
+Wed Nov  1 19:15:50 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:51 2023
+Thread 4: Response received
+Wed Nov  1 19:15:51 2023
+Thread 4: Response received
+Wed Nov  1 19:15:51 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:51 2023
+Thread 4: Response received
+Wed Nov  1 19:15:51 2023
+Thread 4: Response received
+Wed Nov  1 19:15:51 2023
+Thread 4: Response received
+Wed Nov  1 19:15:51 2023
+Thread 4: Response received
+Wed Nov  1 19:15:51 2023
+Thread 4: Response received
+Wed Nov  1 19:15:51 2023
+Thread 4: Response received
+Wed Nov  1 19:15:51 2023
+Thread 4: Response received
+Wed Nov  1 19:15:52 2023
+Thread 4: Response received
+Wed Nov  1 19:15:52 2023
+Thread 4: Response received
+Wed Nov  1 19:15:52 2023
+Thread 4: Response received
+Wed Nov  1 19:15:52 2023
+Thread 4: Response received
+Wed Nov  1 19:15:52 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:53 2023
+Thread 4: Response received
+Wed Nov  1 19:15:53 2023
+Thread 4: Response received
+Wed Nov  1 19:15:53 2023
+Thread 4: Response received
+Wed Nov  1 19:15:53 2023
+Thread 2: Error - Timeout was reached
+Wed Nov  1 19:15:53 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:53 2023
+Thread 8: Error - Timeout was reached
+
+Wed Nov  1 19:15:53 2023
+Thread 12: Error - Timeout was reached
+Wed Nov  1 19:15:53 2023
+Thread 9: Error - Timeout was reached
+Wed Nov  1 19:15:53 2023
+Thread 7: Error - Timeout was reached
+Wed Nov  1 19:15:53 2023
+Thread 11: Error - Timeout was reached
+Wed Nov  1 19:15:53 2023
+Thread 4: Response received
+Wed Nov  1 19:15:53 2023
+Thread 4: Response received
+Wed Nov  1 19:15:53 2023
+Thread 4: Response received
+Wed Nov  1 19:15:53 2023
+Thread 4: Response received
+Wed Nov  1 19:15:53 2023
+Thread 4: Response received
+Wed Nov  1 19:15:54 2023
+Thread 4: Response received
+Wed Nov  1 19:15:54 2023
+Thread 4: Response received
+Wed Nov  1 19:15:54 2023
+Thread 4: Response received
+Wed Nov  1 19:15:54 2023
+Thread 4: Response received
+Wed Nov  1 19:15:54 2023
+Thread 4: Response received
+Wed Nov  1 19:15:54 2023
+Thread 4: Response received
+Wed Nov  1 19:15:54 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:54 2023
+Thread 4: Response received
+Wed Nov  1 19:15:54 2023
+Thread 4: Response received
+Wed Nov  1 19:15:54 2023
+Thread 4: Response received
+Wed Nov  1 19:15:54 2023
+Thread 4: Response received
+Wed Nov  1 19:15:54 2023
+Thread 4: Response received
+Wed Nov  1 19:15:55 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:55 2023
+Thread 4: Response received
+Wed Nov  1 19:15:56 2023
+Thread 4: Response received
+Wed Nov  1 19:15:56 2023
+Thread 4: Response received
+Wed Nov  1 19:15:56 2023
+Thread 4: Response received
+Wed Nov  1 19:15:56 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:57 2023
+Thread 4: Response received
+Wed Nov  1 19:15:57 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:57 2023
+Thread 4: Response received
+Wed Nov  1 19:15:57 2023
+Thread 4: Response received
+Wed Nov  1 19:15:57 2023
+Thread 4: Response received
+Wed Nov  1 19:15:57 2023
+Thread 4: Response received
+Wed Nov  1 19:15:57 2023
+Thread 4: Response received
+Wed Nov  1 19:15:57 2023
+Thread 4: Response received
+Wed Nov  1 19:15:58 2023
+Thread 4: Response received
+Wed Nov  1 19:15:58 2023
+Thread 4: Response received
+Wed Nov  1 19:15:58 2023
+Thread 4: Response received
+Wed Nov  1 19:15:58 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:15:58 2023
+Thread 4: Response received
+Wed Nov  1 19:15:58 2023
+Thread 4: Response received
+Wed Nov  1 19:15:58 2023
+Thread 4: Response received
+Wed Nov  1 19:15:58 2023
+Thread 4: Response received
+Wed Nov  1 19:15:58 2023
+Thread 4: Response received
+Wed Nov  1 19:15:58 2023
+Thread 4: Response received
+Wed Nov  1 19:15:58 2023
+Thread 4: Response received
+Wed Nov  1 19:15:58 2023
+Thread 4: Response received
+Wed Nov  1 19:15:59 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:00 2023
+Thread 4: Response received
+Wed Nov  1 19:16:00 2023
+Thread 4: Response received
+Wed Nov  1 19:16:00 2023
+Thread 4: Response received
+Wed Nov  1 19:16:00 2023
+Thread 4: Response received
+Wed Nov  1 19:16:00 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:00 2023
+Thread 4: Response received
+Wed Nov  1 19:16:01 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:02 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:03 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:03 2023
+Thread 4: Response received
+Wed Nov  1 19:16:03 2023
+Thread 4: Response received
+Wed Nov  1 19:16:03 2023
+Thread 4: Response received
+Wed Nov  1 19:16:03 2023
+Thread 4: Response received
+Wed Nov  1 19:16:04 2023
+Thread 4: Response received
+Wed Nov  1 19:16:04 2023
+Thread 4: Response received
+Wed Nov  1 19:16:04 2023
+Thread 4: Response received
+Wed Nov  1 19:16:04 2023
+Thread 4: Response received
+Wed Nov  1 19:16:04 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:04 2023
+Thread 4: Response received
+Wed Nov  1 19:16:04 2023
+Thread 4: Response received
+Wed Nov  1 19:16:04 2023
+Thread 4: Response received
+Wed Nov  1 19:16:04 2023
+Thread 4: Response received
+Wed Nov  1 19:16:04 2023
+Thread 4: Response received
+Wed Nov  1 19:16:05 2023
+Thread 4: Response received
+Wed Nov  1 19:16:05 2023
+Thread 4: Response received
+Wed Nov  1 19:16:05 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:06 2023
+Thread 4: Response received
+Wed Nov  1 19:16:06 2023
+Thread 4: Response received
+Wed Nov  1 19:16:06 2023
+Thread 4: Response received
+Wed Nov  1 19:16:06 2023
+Thread 4: Response received
+Wed Nov  1 19:16:06 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:06 2023
+Thread 4: Response received
+Wed Nov  1 19:16:06 2023
+Thread 4: Response received
+Wed Nov  1 19:16:06 2023
+Thread 4: Response received
+Wed Nov  1 19:16:06 2023
+Thread 4: Response received
+Wed Nov  1 19:16:07 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:07 2023
+Thread 4: Response received
+Wed Nov  1 19:16:08 2023
+Thread 4: Response received
+Wed Nov  1 19:16:08 2023
+Thread 4: Response received
+Wed Nov  1 19:16:08 2023
+Thread 4: Response received
+Wed Nov  1 19:16:08 2023
+Thread 4: Response received
+Wed Nov  1 19:16:08 2023
+Thread 4: Response received
+Wed Nov  1 19:16:08 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:09 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:09 2023
+Thread 4: Response received
+Wed Nov  1 19:16:09 2023
+Thread 4: Response received
+Wed Nov  1 19:16:09 2023
+Thread 4: Response received
+Wed Nov  1 19:16:09 2023
+Thread 4: Response received
+Wed Nov  1 19:16:09 2023
+Thread 4: Response received
+Wed Nov  1 19:16:10 2023
+Thread 4: Response received
+Wed Nov  1 19:16:10 2023
+Thread 4: Response received
+Wed Nov  1 19:16:10 2023
+Thread 4: Response received
+Wed Nov  1 19:16:10 2023
+Thread 4: Response received
+Wed Nov  1 19:16:10 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:10 2023
+Thread 4: Response received
+Wed Nov  1 19:16:10 2023
+Thread 4: Response received
+Wed Nov  1 19:16:10 2023
+Thread 4: Response received
+Wed Nov  1 19:16:10 2023
+Thread 4: Response received
+Wed Nov  1 19:16:11 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:11 2023
+Thread 4: Response received
+Wed Nov  1 19:16:11 2023
+Thread 4: Response received
+Wed Nov  1 19:16:12 2023
+Thread 4: Response received
+Wed Nov  1 19:16:12 2023
+Thread 4: Response received
+Wed Nov  1 19:16:12 2023
+Thread 4: Response received
+Wed Nov  1 19:16:12 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:12 2023
+Thread 4: Response received
+Wed Nov  1 19:16:12 2023
+Thread 4: Response received
+Wed Nov  1 19:16:12 2023
+Thread 4: Response received
+Wed Nov  1 19:16:12 2023
+Thread 4: Response received
+Wed Nov  1 19:16:12 2023
+Thread 4: Response received
+Wed Nov  1 19:16:13 2023
+Thread 4: Response received
+Wed Nov  1 19:16:13 2023
+Thread 4: Response received
+Wed Nov  1 19:16:13 2023
+Thread 4: Response received
+Wed Nov  1 19:16:13 2023
+Thread 4: Response received
+Wed Nov  1 19:16:13 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:13 2023
+Thread 4: Response received
+Wed Nov  1 19:16:13 2023
+Thread 4: Response received
+Wed Nov  1 19:16:13 2023
+Thread 4: Response received
+Wed Nov  1 19:16:13 2023
+Thread 4: Response received
+Wed Nov  1 19:16:13 2023
+Thread 4: Response received
+Wed Nov  1 19:16:13 2023
+Thread 4: Response received
+Wed Nov  1 19:16:13 2023
+Thread 4: Response received
+Wed Nov  1 19:16:14 2023
+Thread 4: Response received
+Wed Nov  1 19:16:14 2023
+Thread 5: Error - Failure when receiving data from the peer
+Wed Nov  1 19:16:14 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:15 2023
+Thread 4: Response received
+Wed Nov  1 19:16:15 2023
+Thread 4: Response received
+Wed Nov  1 19:16:15 2023
+Thread 4: Response received
+Wed Nov  1 19:16:15 2023
+Thread 4: Response received
+Wed Nov  1 19:16:15 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:15 2023
+Thread 4: Response received
+Wed Nov  1 19:16:15 2023
+Thread 4: Response received
+Wed Nov  1 19:16:15 2023
+Thread 4: Response received
+Wed Nov  1 19:16:15 2023
+Thread 4: Response received
+Wed Nov  1 19:16:15 2023
+Thread 4: Response received
+Wed Nov  1 19:16:15 2023
+Thread 4: Response received
+Wed Nov  1 19:16:15 2023
+Thread 4: Response received
+Wed Nov  1 19:16:16 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:17 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:18 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:18 2023
+Thread 4: Response received
+Wed Nov  1 19:16:19 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:20 2023
+Thread 4: Response received
+Wed Nov  1 19:16:20 2023
+Thread 4: Response received
+Wed Nov  1 19:16:20 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:21 2023
+Thread 4: Response received
+Wed Nov  1 19:16:21 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:21 2023
+Thread 4: Response received
+Wed Nov  1 19:16:21 2023
+Thread 4: Response received
+Wed Nov  1 19:16:22 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:22 2023
+Thread 4: Response received
+Wed Nov  1 19:16:22 2023
+Thread 4: Response received
+Wed Nov  1 19:16:22 2023
+Thread 4: Response received
+Wed Nov  1 19:16:23 2023
+Thread 4: Response received
+Wed Nov  1 19:16:23 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:24 2023
+Thread 4: Response received
+Wed Nov  1 19:16:24 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:25 2023
+Thread 4: Response received
+Wed Nov  1 19:16:25 2023
+Thread 4: Response received
+Wed Nov  1 19:16:25 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:25 2023
+Thread 4: Response received
+Wed Nov  1 19:16:25 2023
+Thread 4: Response received
+Wed Nov  1 19:16:25 2023
+Thread 4: Response received
+Wed Nov  1 19:16:25 2023
+Thread 4: Response received
+Wed Nov  1 19:16:26 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:26 2023
+Thread 4: Response received
+Wed Nov  1 19:16:27 2023
+Thread 4: Response received
+Wed Nov  1 19:16:27 2023
+Thread 4: Response received
+Wed Nov  1 19:16:27 2023
+Thread 4: Response received
+Wed Nov  1 19:16:27 2023
+Thread 4: Response received
+Wed Nov  1 19:16:27 2023
+Thread 4: Response received
+Wed Nov  1 19:16:27 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:27 2023
+Thread 4: Response received
+Wed Nov  1 19:16:27 2023
+Thread 4: Response received
+Wed Nov  1 19:16:27 2023
+Thread 4: Response received
+Wed Nov  1 19:16:27 2023
+Thread 4: Response received
+Wed Nov  1 19:16:27 2023
+Thread 4: Response received
+Wed Nov  1 19:16:28 2023
+Thread 4: Response received
+Wed Nov  1 19:16:28 2023
+Thread 4: Response received
+Wed Nov  1 19:16:28 2023
+Thread 4: Response received
+Wed Nov  1 19:16:28 2023
+Thread 4: Response received
+Wed Nov  1 19:16:28 2023
+Thread 4: Response received
+Wed Nov  1 19:16:28 2023
+Thread 4: Response received
+Wed Nov  1 19:16:28 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:28 2023
+Thread 4: Response received
+Wed Nov  1 19:16:28 2023
+Thread 4: Response received
+Wed Nov  1 19:16:28 2023
+Thread 4: Response received
+Wed Nov  1 19:16:28 2023
+Thread 4: Response received
+Wed Nov  1 19:16:28 2023
+Thread 4: Response received
+Wed Nov  1 19:16:28 2023
+Thread 4: Response received
+Wed Nov  1 19:16:28 2023
+Thread 4: Response received
+Wed Nov  1 19:16:28 2023
+Thread 4: Response received
+Wed Nov  1 19:16:29 2023
+Thread 4: Response received
+Wed Nov  1 19:16:29 2023
+Thread 4: Response received
+Wed Nov  1 19:16:29 2023
+Thread 4: Response received
+Wed Nov  1 19:16:29 2023
+Thread 4: Response received
+Wed Nov  1 19:16:29 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:29 2023
+Thread 4: Response received
+Wed Nov  1 19:16:29 2023
+Thread 4: Response received
+Wed Nov  1 19:16:30 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:30 2023
+Thread 4: Response received
+Wed Nov  1 19:16:31 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:31 2023
+Thread 4: Response received
+Wed Nov  1 19:16:31 2023
+Thread 4: Response received
+Wed Nov  1 19:16:32 2023
+Thread 4: Response received
+Wed Nov  1 19:16:32 2023
+Thread 4: Response received
+Wed Nov  1 19:16:32 2023
+Thread 4: Response received
+Wed Nov  1 19:16:32 2023
+Thread 4: Response received
+Wed Nov  1 19:16:32 2023
+Thread 4: Response received
+Wed Nov  1 19:16:32 2023
+Thread 4: Response received
+Wed Nov  1 19:16:32 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:33 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:33 2023
+Thread 4: Response received
+Wed Nov  1 19:16:33 2023
+Thread 4: Response received
+Wed Nov  1 19:16:33 2023
+Thread 4: Response received
+Wed Nov  1 19:16:34 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:34 2023
+Thread 4: Response received
+Wed Nov  1 19:16:35 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:35 2023
+Thread 4: Response received
+Wed Nov  1 19:16:35 2023
+Thread 4: Response received
+Wed Nov  1 19:16:36 2023
+Thread 4: Response received
+Wed Nov  1 19:16:36 2023
+Thread 4: Response received
+Wed Nov  1 19:16:36 2023
+Thread 4: Response received
+Wed Nov  1 19:16:36 2023
+Thread 4: Response received
+Wed Nov  1 19:16:36 2023
+Thread 4: Response received
+Wed Nov  1 19:16:36 2023
+Thread 4: Response received
+Wed Nov  1 19:16:36 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:36 2023
+Thread 4: Response received
+Wed Nov  1 19:16:36 2023
+Thread 4: Response received
+Wed Nov  1 19:16:37 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:38 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:39 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:39 2023
+Thread 4: Response received
+Wed Nov  1 19:16:39 2023
+Thread 4: Response received
+Wed Nov  1 19:16:39 2023
+Thread 4: Response received
+Wed Nov  1 19:16:39 2023
+Thread 4: Response received
+Wed Nov  1 19:16:39 2023
+Thread 4: Response received
+Wed Nov  1 19:16:39 2023
+Thread 4: Response received
+Wed Nov  1 19:16:39 2023
+Thread 4: Response received
+Wed Nov  1 19:16:40 2023
+Thread 4: Response received
+Wed Nov  1 19:16:40 2023
+Thread 4: Response received
+Wed Nov  1 19:16:40 2023
+Thread 4: Response received
+Wed Nov  1 19:16:40 2023
+Thread 4: Response received
+Wed Nov  1 19:16:40 2023
+Thread 4: Response received
+Wed Nov  1 19:16:40 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:40 2023
+Thread 4: Response received
+Wed Nov  1 19:16:40 2023
+Thread 4: Response received
+Wed Nov  1 19:16:40 2023
+Thread 4: Response received
+Wed Nov  1 19:16:40 2023
+Thread 4: Response received
+Wed Nov  1 19:16:40 2023
+Thread 4: Response received
+Wed Nov  1 19:16:41 2023
+Thread 4: Response received
+Wed Nov  1 19:16:41 2023
+Thread 4: Response received
+Wed Nov  1 19:16:41 2023
+Thread 4: Response received
+Wed Nov  1 19:16:41 2023
+Thread 4: Response received
+Wed Nov  1 19:16:41 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:41 2023
+Thread 4: Response received
+Wed Nov  1 19:16:41 2023
+Thread 4: Response received
+Wed Nov  1 19:16:41 2023
+Thread 4: Response received
+Wed Nov  1 19:16:42 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:42 2023
+Thread 4: Response received
+Wed Nov  1 19:16:42 2023
+Thread 4: Response received
+Wed Nov  1 19:16:43 2023
+Thread 4: Response received
+Wed Nov  1 19:16:43 2023
+Current RAM Usage: 72.000000%
+Wed Nov  1 19:16:44 2023
+Thread 4: Response received
+Wed Nov  1 19:16:44 2023
+Current RAM Usage: 73.000000%
+Wed Nov  1 19:16:45 2023
+Current RAM Usage: 73.000000%
+Wed Nov  1 19:16:46 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 19:16:47 2023
+Thread 4: Response received
+Wed Nov  1 19:16:47 2023
+Thread 4: Response received
+Wed Nov  1 19:16:47 2023
+Thread 4: Response received
+Wed Nov  1 19:16:47 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 19:16:48 2023
+Thread 4: Response received
+Wed Nov  1 19:16:48 2023
+Thread 4: Response received
+Wed Nov  1 19:16:48 2023
+Current RAM Usage: 74.000000%
+Wed Nov  1 19:16:48 2023
+Thread 4: Response received
+Wed Nov  1 19:16:48 2023
+Thread 4: Response received
+Wed Nov  1 19:16:48 2023
+Thread 4: Response received
+Wed Nov  1 19:16:48 2023
+Thread 4: Response received
+Wed Nov  1 19:16:48 2023
+Thread 4: Response received
+Wed Nov  1 19:16:48 2023
+Thread 4: Response received
+Wed Nov  1 19:16:49 2023
+Thread 4: Response received
+Wed Nov  1 19:16:49 2023
+Thread 4: Response received
+Wed Nov  1 19:16:49 2023
+Current RAM Usage: 73.000000%
+Wed Nov  1 19:16:50 2023
+Thread 4: Response received
+Wed Nov  1 19:16:50 2023
+Thread 4: Response received
+Wed Nov  1 19:16:50 2023
+Thread 4: Response received
+Wed Nov  1 19:16:50 2023
+Thread 4: Response received
+Wed Nov  1 19:16:50 2023
+Current RAM Usage: 73.000000%
+Wed Nov  1 19:16:50 2023
+Thread 4: Response received
+Wed Nov  1 19:16:50 2023
+Thread 4: Response received
+Wed Nov  1 19:16:50 2023
+Thread 4: Response received
+Wed Nov  1 19:16:50 2023
+Thread 4: Response received
+Wed Nov  1 19:16:50 2023
+Thread 4: Response received
+Thu Nov  2 01:10:57 2023
+Proxies loaded from http_proxies.txt: 745
+Thu Nov  2 01:10:57 2023
+Proxies loaded from socks4_proxies.txt: 1333
+Thu Nov  2 01:10:57 2023
+Proxies loaded from socks5_proxies.txt: 1713
+Thu Nov  2 01:12:06 2023
+Starting request process for URL: 140.82.121.4
+Thu Nov  2 01:12:06 2023
+Launching 12 threads for URL: 140.82.121.4
+Thu Nov  2 01:12:06 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:06 2023
+Thread 1 starting with proxy: 109.75.34.152:59341 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0
+hu Nov  2 01:12:06 2023
+Thread 5 starting with proxy: 119.148.31.81:9990 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61
+Thu Nov  2 01:12:06 2023
+Thread 6 starting with proxy: 159.138.255.141:8017 and user agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Thu Nov  2 01:12:06 2023
+Thread 8 starting with proxy: 119.148.31.81:9990 and user agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+Thu Nov  2 01:12:06 2023
+Thread 7 starting with proxy: 117.74.65.207:8017 and user agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+Thu Nov  2 01:12:06 2023
+Thread 9 starting with proxy: 184.178.172.18:15280 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.47
+Thu Nov  2 01:12:06 2023
+Thread 10 starting with proxy: 180.235.65.13:80 and user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+Thu Nov  2 01:12:06 2023
+Thread 11 starting with proxy: 192.252.216.81:4145 and user agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15
+Thu Nov  2 01:12:06 2023
+Thread 12 starting with proxy: 162.214.103.84:62925 and user agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Thu Nov  2 01:12:07 2023
+Thread 11: Error - Failure when receiving data from the peer
+Thu Nov  2 01:12:07 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:07 2023
+Thread 10: Response received
+Thu Nov  2 01:12:07 2023
+Thread 1: Error - Failure when receiving data from the peer
+Thu Nov  2 01:12:08 2023
+Thread 9: Error - Failure when receiving data from the peer
+Thu Nov  2 01:12:08 2023
+Thread 10: Response received
+Thu Nov  2 01:12:08 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:09 2023
+Thread 4: Response received
+Thu Nov  2 01:12:09 2023
+Thread 4: Response received
+Thu Nov  2 01:12:09 2023
+Thread 4: Response received
+Thu Nov  2 01:12:09 2023
+Thread 10: Response received
+Thu Nov  2 01:12:09 2023
+Thread 6: Response received
+Thu Nov  2 01:12:09 2023
+Thread 4: Response received
+Thu Nov  2 01:12:09 2023
+Thread 4: Response received
+Thu Nov  2 01:12:09 2023
+Thread 2: Response received
+Thu Nov  2 01:12:09 2023
+Thread 4: Response received
+Thu Nov  2 01:12:09 2023
+Thread 6: Response received
+Thu Nov  2 01:12:09 2023
+Thread 4: Response received
+Thu Nov  2 01:12:09 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:09 2023
+Thread 4: Response received
+Thu Nov  2 01:12:09 2023
+Thread 2: Response received
+Thu Nov  2 01:12:09 2023
+Thread 4: Response received
+Thu Nov  2 01:12:09 2023
+Thread 6: Response received
+Thu Nov  2 01:12:09 2023
+Thread 4: Response received
+Thu Nov  2 01:12:10 2023
+Thread 4: Response received
+Thu Nov  2 01:12:10 2023
+Thread 2: Response received
+Thu Nov  2 01:12:10 2023
+Thread 6: Response received
+Thu Nov  2 01:12:10 2023
+Thread 4: Response received
+Thu Nov  2 01:12:10 2023
+Thread 4: Response received
+Thu Nov  2 01:12:10 2023
+Thread 4: Response received
+Thu Nov  2 01:12:10 2023
+Thread 3: Error - Server returned nothing (no headers, no data)
+Thu Nov  2 01:12:10 2023
+Thread 2: Response received
+Thu Nov  2 01:12:10 2023
+Thread 6: Response received
+Thu Nov  2 01:12:10 2023
+Thread 4: Response received
+Thu Nov  2 01:12:10 2023
+Thread 4: Response received
+Thu Nov  2 01:12:10 2023
+Thread 4: Response received
+Thu Nov  2 01:12:10 2023
+Thread 6: Response received
+Thu Nov  2 01:12:10 2023
+Thread 2: Response received
+Thu Nov  2 01:12:10 2023
+Thread 4: Response received
+Thu Nov  2 01:12:10 2023
+Thread 4: Response received
+Thu Nov  2 01:12:10 2023
+Thread 4: Response received
+Thu Nov  2 01:12:10 2023
+Thread 10: Response received
+Thu Nov  2 01:12:10 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:10 2023
+Thread 6: Response received
+Thu Nov  2 01:12:10 2023
+Thread 4: Response received
+Thu Nov  2 01:12:10 2023
+Thread 2: Response received
+Thu Nov  2 01:12:10 2023
+Thread 4: Response received
+Thu Nov  2 01:12:10 2023
+Thread 4: Response received
+Thu Nov  2 01:12:11 2023
+Thread 4: Response received
+Thu Nov  2 01:12:11 2023
+Thread 6: Response received
+Thu Nov  2 01:12:11 2023
+Thread 4: Response received
+Thu Nov  2 01:12:11 2023
+Thread 2: Response received
+Thu Nov  2 01:12:11 2023
+Thread 4: Response received
+Thu Nov  2 01:12:11 2023
+Thread 4: Response received
+Thu Nov  2 01:12:11 2023
+Thread 6: Response received
+Thu Nov  2 01:12:11 2023
+Thread 4: Response received
+Thu Nov  2 01:12:11 2023
+Thread 4: Response received
+Thu Nov  2 01:12:11 2023
+Thread 2: Response received
+Thu Nov  2 01:12:11 2023
+Thread 4: Response received
+Thu Nov  2 01:12:11 2023
+Thread 4: Response received
+Thu Nov  2 01:12:11 2023
+Thread 6: Response received
+Thu Nov  2 01:12:11 2023
+Thread 10: Response received
+Thu Nov  2 01:12:11 2023
+Thread 4: Response received
+Thu Nov  2 01:12:11 2023
+Thread 4: Response received
+Thu Nov  2 01:12:11 2023
+Thread 4: Response received
+Thu Nov  2 01:12:11 2023
+Thread 2: Response received
+Thu Nov  2 01:12:11 2023
+Thread 6: Response received
+Thu Nov  2 01:12:11 2023
+Thread 4: Response received
+Thu Nov  2 01:12:11 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:11 2023
+Thread 4: Response received
+Thu Nov  2 01:12:11 2023
+Thread 4: Response received
+Thu Nov  2 01:12:11 2023
+Thread 4: Response received
+Thu Nov  2 01:12:11 2023
+Thread 2: Response received
+Thu Nov  2 01:12:11 2023
+Thread 6: Response received
+Thu Nov  2 01:12:11 2023
+Thread 4: Response received
+Thu Nov  2 01:12:12 2023
+Thread 4: Response received
+Thu Nov  2 01:12:12 2023
+Thread 4: Response received
+Thu Nov  2 01:12:12 2023
+Thread 4: Response received
+Thu Nov  2 01:12:12 2023
+Thread 6: Response received
+Thu Nov  2 01:12:12 2023
+Thread 2: Response received
+Thu Nov  2 01:12:12 2023
+Thread 4: Response received
+Thu Nov  2 01:12:12 2023
+Thread 4: Response received
+Thu Nov  2 01:12:12 2023
+Thread 4: Response received
+Thu Nov  2 01:12:12 2023
+Thread 4: Response received
+Thu Nov  2 01:12:12 2023
+Thread 6: Response received
+Thu Nov  2 01:12:12 2023
+Thread 4: Response received
+Thu Nov  2 01:12:12 2023
+Thread 2: Response received
+Thu Nov  2 01:12:12 2023
+Thread 4: Response received
+Thu Nov  2 01:12:12 2023
+Thread 4: Response received
+Thu Nov  2 01:12:12 2023
+Thread 4: Response received
+Thu Nov  2 01:12:12 2023
+Thread 6: Response received
+Thu Nov  2 01:12:12 2023
+Thread 4: Response received
+Thu Nov  2 01:12:12 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:12 2023
+Thread 2: Response received
+Thu Nov  2 01:12:12 2023
+Thread 4: Response received
+Thu Nov  2 01:12:12 2023
+Thread 4: Response received
+Thu Nov  2 01:12:12 2023
+Thread 6: Response received
+Thu Nov  2 01:12:12 2023
+Thread 10: Response received
+Thu Nov  2 01:12:12 2023
+Thread 4: Response received
+Thu Nov  2 01:12:12 2023
+Thread 4: Response received
+Thu Nov  2 01:12:13 2023
+Thread 2: Response received
+Thu Nov  2 01:12:13 2023
+Thread 4: Response received
+Thu Nov  2 01:12:13 2023
+Thread 4: Response received
+Thu Nov  2 01:12:13 2023
+Thread 6: Response received
+Thu Nov  2 01:12:13 2023
+Thread 4: Response received
+Thu Nov  2 01:12:13 2023
+Thread 4: Response received
+Thu Nov  2 01:12:13 2023
+Thread 4: Response received
+Thu Nov  2 01:12:13 2023
+Thread 2: Response received
+Thu Nov  2 01:12:13 2023
+Thread 4: Response received
+Thu Nov  2 01:12:13 2023
+Thread 6: Response received
+Thu Nov  2 01:12:13 2023
+Thread 4: Response received
+Thu Nov  2 01:12:13 2023
+Thread 4: Response received
+Thu Nov  2 01:12:13 2023
+Thread 4: Response received
+Thu Nov  2 01:12:13 2023
+Thread 2: Response received
+Thu Nov  2 01:12:13 2023
+Thread 4: Response received
+Thu Nov  2 01:12:13 2023
+Thread 6: Response received
+Thu Nov  2 01:12:13 2023
+Thread 4: Response received
+Thu Nov  2 01:12:13 2023
+Thread 4: Response received
+Thu Nov  2 01:12:13 2023
+Thread 10: Response received
+Thu Nov  2 01:12:13 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:13 2023
+Thread 4: Response received
+Thu Nov  2 01:12:13 2023
+Thread 2: Response received
+Thu Nov  2 01:12:13 2023
+Thread 4: Response received
+Thu Nov  2 01:12:13 2023
+Thread 6: Response received
+Thu Nov  2 01:12:13 2023
+Thread 4: Response received
+Thu Nov  2 01:12:13 2023
+Thread 4: Response received
+Thu Nov  2 01:12:14 2023
+Thread 4: Response received
+Thu Nov  2 01:12:14 2023
+Thread 2: Response received
+Thu Nov  2 01:12:14 2023
+Thread 4: Response received
+Thu Nov  2 01:12:14 2023
+Thread 6: Response received
+Thu Nov  2 01:12:14 2023
+Thread 4: Response received
+Thu Nov  2 01:12:14 2023
+Thread 4: Response received
+Thu Nov  2 01:12:14 2023
+Thread 4: Response received
+Thu Nov  2 01:12:14 2023
+Thread 6: Response received
+Thu Nov  2 01:12:14 2023
+Thread 4: Response received
+Thu Nov  2 01:12:14 2023
+Thread 2: Response received
+Thu Nov  2 01:12:14 2023
+Thread 4: Response received
+Thu Nov  2 01:12:14 2023
+Thread 4: Response received
+Thu Nov  2 01:12:14 2023
+Thread 4: Response received
+Thu Nov  2 01:12:14 2023
+Thread 6: Response received
+Thu Nov  2 01:12:14 2023
+Thread 4: Response received
+Thu Nov  2 01:12:14 2023
+Thread 2: Response received
+Thu Nov  2 01:12:14 2023
+Thread 4: Response received
+Thu Nov  2 01:12:14 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:14 2023
+Thread 4: Response received
+Thu Nov  2 01:12:14 2023
+Thread 6: Response received
+Thu Nov  2 01:12:14 2023
+Thread 4: Response received
+Thu Nov  2 01:12:14 2023
+Thread 2: Response received
+Thu Nov  2 01:12:15 2023
+Thread 6: Response received
+Thu Nov  2 01:12:15 2023
+Thread 2: Response received
+Thu Nov  2 01:12:15 2023
+Thread 6: Response received
+Thu Nov  2 01:12:15 2023
+Thread 4: Response received
+Thu Nov  2 01:12:15 2023
+Thread 2: Response received
+Thu Nov  2 01:12:15 2023
+Thread 6: Response received
+Thu Nov  2 01:12:15 2023
+Thread 10: Response received
+Thu Nov  2 01:12:15 2023
+Thread 2: Response received
+Thu Nov  2 01:12:15 2023
+Thread 6: Response received
+Thu Nov  2 01:12:15 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:15 2023
+Thread 6: Response received
+Thu Nov  2 01:12:16 2023
+Thread 2: Response received
+Thu Nov  2 01:12:16 2023
+Thread 6: Response received
+Thu Nov  2 01:12:16 2023
+Thread 2: Response received
+Thu Nov  2 01:12:16 2023
+Thread 10: Response received
+Thu Nov  2 01:12:16 2023
+Thread 6: Response received
+Thu Nov  2 01:12:16 2023
+Thread 4: Response received
+Thu Nov  2 01:12:16 2023
+Thread 2: Response received
+Thu Nov  2 01:12:16 2023
+Thread 6: Response received
+Thu Nov  2 01:12:16 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:16 2023
+Thread 2: Response received
+Thu Nov  2 01:12:16 2023
+Thread 6: Response received
+Thu Nov  2 01:12:17 2023
+Thread 2: Response received
+Thu Nov  2 01:12:17 2023
+Thread 6: Response received
+Thu Nov  2 01:12:17 2023
+Thread 2: Response received
+Thu Nov  2 01:12:17 2023
+Thread 6: Response received
+Thu Nov  2 01:12:17 2023
+Thread 6: Response received
+Thu Nov  2 01:12:17 2023
+Thread 2: Response received
+Thu Nov  2 01:12:17 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:17 2023
+Thread 6: Response received
+Thu Nov  2 01:12:17 2023
+Thread 2: Response received
+Thu Nov  2 01:12:18 2023
+Thread 6: Response received
+Thu Nov  2 01:12:18 2023
+Thread 2: Response received
+Thu Nov  2 01:12:18 2023
+Thread 6: Response received
+Thu Nov  2 01:12:18 2023
+Thread 2: Response received
+Thu Nov  2 01:12:18 2023
+Thread 6: Response received
+Thu Nov  2 01:12:18 2023
+Thread 4: Response received
+Thu Nov  2 01:12:18 2023
+Thread 10: Response received
+Thu Nov  2 01:12:18 2023
+Thread 2: Response received
+Thu Nov  2 01:12:18 2023
+Thread 6: Response received
+Thu Nov  2 01:12:18 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:18 2023
+Thread 2: Response received
+Thu Nov  2 01:12:19 2023
+Thread 6: Response received
+Thu Nov  2 01:12:19 2023
+Thread 4: Response received
+Thu Nov  2 01:12:19 2023
+Thread 6: Response received
+Thu Nov  2 01:12:19 2023
+Thread 2: Response received
+Thu Nov  2 01:12:19 2023
+Thread 10: Response received
+Thu Nov  2 01:12:19 2023
+Thread 6: Response received
+Thu Nov  2 01:12:19 2023
+Thread 2: Response received
+Thu Nov  2 01:12:19 2023
+Thread 4: Response received
+Thu Nov  2 01:12:19 2023
+Thread 6: Response received
+Thu Nov  2 01:12:19 2023
+Thread 2: Response received
+Thu Nov  2 01:12:19 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:19 2023
+Thread 4: Response received
+Thu Nov  2 01:12:19 2023
+Thread 6: Response received
+Thu Nov  2 01:12:20 2023
+Thread 2: Response received
+Thu Nov  2 01:12:20 2023
+Thread 4: Response received
+Thu Nov  2 01:12:20 2023
+Thread 6: Response received
+Thu Nov  2 01:12:20 2023
+Thread 2: Response received
+Thu Nov  2 01:12:20 2023
+Thread 6: Response received
+Thu Nov  2 01:12:20 2023
+Thread 4: Response received
+Thu Nov  2 01:12:20 2023
+Thread 4: Response received
+Thu Nov  2 01:12:20 2023
+Thread 2: Response received
+Thu Nov  2 01:12:20 2023
+Thread 6: Response received
+Thu Nov  2 01:12:20 2023
+Thread 4: Response received
+Thu Nov  2 01:12:20 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:20 2023
+Thread 6: Response received
+Thu Nov  2 01:12:20 2023
+Thread 2: Response received
+Thu Nov  2 01:12:21 2023
+Thread 6: Response received
+Thu Nov  2 01:12:21 2023
+Thread 2: Response received
+Thu Nov  2 01:12:21 2023
+Thread 4: Response received
+Thu Nov  2 01:12:21 2023
+Thread 10: Response received
+Thu Nov  2 01:12:21 2023
+Thread 4: Response received
+Thu Nov  2 01:12:21 2023
+Thread 6: Response received
+Thu Nov  2 01:12:21 2023
+Thread 2: Response received
+Thu Nov  2 01:12:21 2023
+Thread 4: Response received
+Thu Nov  2 01:12:21 2023
+Thread 6: Response received
+Thu Nov  2 01:12:21 2023
+Thread 4: Response received
+Thu Nov  2 01:12:21 2023
+Thread 2: Response received
+Thu Nov  2 01:12:21 2023
+Thread 6: Response received
+Thu Nov  2 01:12:21 2023
+Thread 4: Response received
+Thu Nov  2 01:12:21 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:21 2023
+Thread 4: Response received
+Thu Nov  2 01:12:21 2023
+Thread 2: Response received
+Thu Nov  2 01:12:21 2023
+Thread 10: Response received
+Thu Nov  2 01:12:22 2023
+Thread 6: Response received
+Thu Nov  2 01:12:22 2023
+Thread 4: Response received
+Thu Nov  2 01:12:22 2023
+Thread 4: Response received
+Thu Nov  2 01:12:22 2023
+Thread 2: Response received
+Thu Nov  2 01:12:22 2023
+Thread 6: Response received
+Thu Nov  2 01:12:22 2023
+Thread 4: Response received
+Thu Nov  2 01:12:22 2023
+Thread 5: Error - Server returned nothing (no headers, no data)
+Thu Nov  2 01:12:22 2023
+Thread 8: Error - Server returned nothing (no headers, no data)
+Thu Nov  2 01:12:22 2023
+Thread 4: Response received
+Thu Nov  2 01:12:22 2023
+Thread 6: Response received
+Thu Nov  2 01:12:22 2023
+Thread 4: Response received
+Thu Nov  2 01:12:22 2023
+Thread 2: Response received
+Thu Nov  2 01:12:22 2023
+Thread 4: Response received
+Thu Nov  2 01:12:22 2023
+Thread 6: Response received
+Thu Nov  2 01:12:22 2023
+Thread 10: Response received
+Thu Nov  2 01:12:22 2023
+Thread 2: Response received
+Thu Nov  2 01:12:22 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:22 2023
+Thread 6: Response received
+Thu Nov  2 01:12:23 2023
+Thread 2: Response received
+Thu Nov  2 01:12:23 2023
+Thread 6: Response received
+Thu Nov  2 01:12:23 2023
+Thread 2: Response received
+Thu Nov  2 01:12:23 2023
+Thread 6: Response received
+Thu Nov  2 01:12:23 2023
+Thread 2: Response received
+Thu Nov  2 01:12:23 2023
+Thread 6: Response received
+Thu Nov  2 01:12:23 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:23 2023
+Thread 2: Response received
+Thu Nov  2 01:12:23 2023
+Thread 6: Response received
+Thu Nov  2 01:12:24 2023
+Thread 6: Response received
+Thu Nov  2 01:12:24 2023
+Thread 2: Response received
+Thu Nov  2 01:12:24 2023
+Thread 6: Response received
+Thu Nov  2 01:12:24 2023
+Thread 2: Response received
+Thu Nov  2 01:12:24 2023
+Thread 10: Response received
+Thu Nov  2 01:12:24 2023
+Thread 6: Response received
+Thu Nov  2 01:12:24 2023
+Thread 2: Response received
+Thu Nov  2 01:12:24 2023
+Thread 4: Response received
+Thu Nov  2 01:12:24 2023
+Thread 6: Response received
+Thu Nov  2 01:12:24 2023
+Thread 4: Response received
+Thu Nov  2 01:12:24 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:24 2023
+Thread 4: Response received
+Thu Nov  2 01:12:24 2023
+Thread 2: Response received
+Thu Nov  2 01:12:24 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 6: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 2: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 6: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 2: Response received
+Thu Nov  2 01:12:25 2023
+Thread 6: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 6: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 2: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:25 2023
+Thread 6: Response received
+Thu Nov  2 01:12:25 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 2: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 6: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 2: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 6: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 2: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 6: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 10: Response received
+Thu Nov  2 01:12:26 2023
+Thread 2: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 6: Response received
+Thu Nov  2 01:12:26 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:26 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 2: Response received
+Thu Nov  2 01:12:27 2023
+Thread 6: Response received
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 6: Response received
+Thu Nov  2 01:12:27 2023
+Thread 2: Response received
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 2: Response received
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 6: Response received
+Thu Nov  2 01:12:27 2023
+Thread 7: Error - Timeout was reached
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 2: Response received
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:27 2023
+Thread 4: Response received
+Thu Nov  2 01:12:28 2023
+Thread 6: Response received
+Thu Nov  2 01:12:28 2023
+Thread 4: Response received
+Thu Nov  2 01:12:28 2023
+Thread 4: Response received
+Thu Nov  2 01:12:28 2023
+Thread 4: Response received
+Thu Nov  2 01:12:28 2023
+Thread 10: Response received
+Thu Nov  2 01:12:28 2023
+Thread 4: Response received
+Thu Nov  2 01:12:28 2023
+Thread 6: Response received
+Thu Nov  2 01:12:28 2023
+Thread 4: Response received
+Thu Nov  2 01:12:28 2023
+Thread 4: Response received
+Thu Nov  2 01:12:28 2023
+Thread 4: Response received
+Thu Nov  2 01:12:28 2023
+Thread 4: Response received
+Thu Nov  2 01:12:28 2023
+Thread 2: Response received
+Thu Nov  2 01:12:28 2023
+Thread 6: Response received
+Thu Nov  2 01:12:28 2023
+Thread 4: Response received
+Thu Nov  2 01:12:28 2023
+Thread 4: Response received
+Thu Nov  2 01:12:28 2023
+Thread 4: Response received
+Thu Nov  2 01:12:28 2023
+Thread 2: Response received
+Thu Nov  2 01:12:28 2023
+Thread 6: Response received
+Thu Nov  2 01:12:28 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:28 2023
+Thread 4: Response received
+Thu Nov  2 01:12:29 2023
+Thread 2: Response received
+Thu Nov  2 01:12:29 2023
+Thread 6: Response received
+Thu Nov  2 01:12:29 2023
+Thread 4: Response received
+Thu Nov  2 01:12:29 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:29 2023
+Thread 10: Response received
+Thu Nov  2 01:12:30 2023
+Thread 4: Response received
+Thu Nov  2 01:12:30 2023
+Thread 4: Response received
+Thu Nov  2 01:12:30 2023
+Thread 4: Response received
+Thu Nov  2 01:12:30 2023
+Thread 4: Response received
+Thu Nov  2 01:12:30 2023
+Thread 4: Response received
+Thu Nov  2 01:12:30 2023
+Thread 4: Response received
+Thu Nov  2 01:12:30 2023
+Thread 4: Response received
+Thu Nov  2 01:12:30 2023
+Thread 4: Response received
+Thu Nov  2 01:12:30 2023
+Thread 4: Response received
+Thu Nov  2 01:12:30 2023
+Thread 6: Response received
+Thu Nov  2 01:12:30 2023
+Thread 4: Response received
+Thu Nov  2 01:12:30 2023
+Thread 4: Response received
+Thu Nov  2 01:12:30 2023
+Thread 4: Response received
+Thu Nov  2 01:12:30 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:30 2023
+Thread 6: Response received
+Thu Nov  2 01:12:30 2023
+Thread 2: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:31 2023
+Thread 6: Response received
+Thu Nov  2 01:12:31 2023
+Thread 2: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:31 2023
+Thread 6: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:31 2023
+Thread 2: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:31 2023
+Thread 6: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:31 2023
+Thread 2: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:31 2023
+Current RAM Usage: 44.000000%
+Thu Nov  2 01:12:31 2023
+Thread 6: Response received
+Thu Nov  2 01:12:31 2023
+Thread 10: Response received
+Thu Nov  2 01:12:31 2023
+Thread 4: Response received
+Thu Nov  2 01:12:32 2023
+Thread 4: Response received
+Thu Nov  2 01:12:32 2023
+Thread 2: Response received
+Thu Nov  2 01:12:32 2023
+Thread 4: Response received
+Thu Nov  2 01:12:32 2023
+Thread 6: Response received
+Thu Nov  2 01:12:32 2023
+Thread 4: Response received
+Thu Nov  2 01:12:32 2023
+Thread 2: Response received
+Thu Nov  2 01:12:32 2023
+Thread 6: Response received
+Thu Nov  2 01:12:32 2023
+Thread 6: Response received
+Thu Nov  2 01:12:32 2023
+Thread 2: Response received

@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\v3nom\source\repos\ddospro\ddospro\main.cpp(150,70): warning C4267: 'bağımsız değişken': 'size_t' - '_Ty' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\v3nom\source\repos\ddospro\ddospro\main.cpp(153,68): warning C4267: 'bağımsız değişken': 'size_t' - '_Ty' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=int
+          ]
+  ddospro.vcxproj -> C:\Users\v3nom\source\repos\ddospro\x64\Debug\ddospro.exe
